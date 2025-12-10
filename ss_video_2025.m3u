@@ -7,7 +7,7 @@ http://142.202.51.5:11500/2ca013cd44b712fbc117aae555a935f5a/video.m3u8?token=8cd
 http://142.202.51.5:11500/f1f54bbfdcc13c7524b3b5c6b5d59eaee/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:24,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%201%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 1 HD
 http://142.202.51.5:11500/5461792934/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:17,ns2
+#EXTINF:17,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%202%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 2 HD
 http://142.202.51.5:11500/5461792935/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:24,ns3
 http://142.202.51.5:11500/189fbvgherne65wq89z8uvsztzt24w8t/video.m3u8?token=8cd42917778958ac401318dd4968d644
@@ -21,6 +21,7 @@ http://142.202.51.5:11500/4b80b837634f6ec4e18ff6808a8104f2/video.m3u8?token=8cd4
 http://142.202.51.5:11500/1566fbedc44910a80f2ff3c7624b9c73/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:23,PS3
 http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd42917778958ac401318dd4968d644
+
 
 
 
