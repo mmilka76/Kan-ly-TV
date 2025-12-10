@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:56,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Oneplay%20Sport%201%20HD.png" group-title="CZ| SPORT ᴴᴰ",Oneplay Sport 1 HD
+#EXTINF:56 type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Oneplay%20Sport%201%20HD.png" group-title="CZ| SPORT ᴴᴰ",Oneplay Sport 1 HD
 http://142.202.51.5:11500/ba666fbedc44910a80f2ff3c7624b9c73a/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:57,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Oneplay%20Sport%202%20HD.png" group-title="CZ| SPORT ᴴᴰ",Oneplay Sport 2 HD
+#EXTINF:57 type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Oneplay%20Sport%202%20HD.png" group-title="CZ| SPORT ᴴᴰ",Oneplay Sport 2 HD
 http://142.202.51.5:11500/2ca013cd44b712fbc117aae555a935f5a/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:23,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Oneplay%20Sport%203%20HD.png" group-title="CZ| SPORT ᴴᴰ",Oneplay Sport 3 HD
+#EXTINF:23 type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Oneplay%20Sport%203%20HD.png" group-title="CZ| SPORT ᴴᴰ",Oneplay Sport 3 HD
 http://142.202.51.5:11500/f1f54bbfdcc13c7524b3b5c6b5d59eaee/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:24,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%201%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 1 HD
+#EXTINF:24 type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%201%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 1 HD
 http://142.202.51.5:11500/5461792934/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:17,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%202%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 2 HD
+#EXTINF:17 type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%202%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 2 HD
 http://142.202.51.5:11500/5461792935/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:24,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%203%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 3 HD
+#EXTINF:24type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%203%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 3 HD
 http://142.202.51.5:11500/189fbvgherne65wq89z8uvsztzt24w8t/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:23,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%204%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 4 HD
+#EXTINF:23type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%204%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 4 HD
 http://142.202.51.5:11500/sadcdsoirewfcsaldkwjetze984656e5/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:22,tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%205%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 5 HD
+#EXTINF:22type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%205%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 5 HD
 http://142.202.51.5:11500/NS5/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:23,PS1
 http://142.202.51.5:11500/4b80b837634f6ec4e18ff6808a8104f2/video.m3u8?token=8cd42917778958ac401318dd4968d644
@@ -21,6 +21,8 @@ http://142.202.51.5:11500/4b80b837634f6ec4e18ff6808a8104f2/video.m3u8?token=8cd4
 http://142.202.51.5:11500/1566fbedc44910a80f2ff3c7624b9c73/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:23,PS3
 http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0 type="playlist" size="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qNToa9ywi7rDEh75PMMctam7des.jpg" group-title="HBO ᴴᴰ",Pán prsteňov: Návrat kráľa
+https://prehrajto.cz/pan-prstenu-navrat-krale-prodlouzena-verze-2003/68954785d75ca?do=download
 
 
 
