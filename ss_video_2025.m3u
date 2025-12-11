@@ -151,14 +151,6 @@ http://hls1.free-net.tv:8080/BOX_Remast_4K/tracks-v1a1/mono.m3u8?token=Homeorg
 http://hls1.free-net.tv:8080/box_relax_4k/tracks-v1a1/mono.m3u8?token=Homeorg
 #EXTINF:-1 media=""tvg-id="STB21031"tvg-logo=""tvg-chno="325"group-title="Телеканали 4K",HOME 4K
 http://hls1.free-net.tv:8080/Home_4K/tracks-v1a1a2/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id="STB21097"tvg-logo=""tvg-chno="333"group-title="Телеканали 4K",Наша Сибирь 4K
-http://158.179.205.12:8001/play/STB2/1097
-#EXTINF:-1 media=""tvg-id="STB21071"tvg-logo=""tvg-chno="413"group-title="Телеканали 4K",Кино UHD 4K
-http://158.179.205.12:8001/play/STB2/1071
-#EXTINF:-1 media=""tvg-id="STB21175"tvg-logo=""tvg-chno="676"group-title="Телеканали 4K",Love Nature 4K
-http://158.179.205.12:8001/play/STB2/1175
-#EXTINF:-1 media=""tvg-id="STB2210"tvg-logo=""tvg-chno="708"group-title="Телеканали 4K",Insight UHD
-http://158.179.205.12:8001/play/STB2/210
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/nwnEHsN2SHETsIgbdYM8jg9uq1V.jpg"tvg-chno=""group-title="🍿 Movies",Strážcovia Galaxie 3 (2023)
 http://vodc-sk-bts-six.fastad.pro/dhls/39438/6vEMpbChxmFgo_OgCYpLTesA7_ZvyII3G9zKIFJoyWdSDIyIr0zoCv7Mi1fl79RFNJMUjsE8KVbuuPtlituaTA/master.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/original/f19u4TMvhCf756wMrU0IkYkbJ55.jpg"tvg-chno=""group-title="🍿 Movies",Avatar  Cesta vody (2022)
@@ -173,6 +165,10 @@ http://vodc-sk-bts-six.fastad.pro/dhls/25548/U278PXQVg-CWAbmCV59GJJA0vpXfxQmtQrS
 http://vodc-sk-bts-six.fastad.pro/dhls/26006/1QRgg3WgCjfOUx-iAS34bFrPZIT2s9ELfa3SxpV3x1TA5wImkWeSwyoNppEBH6cpWAEsgIMc9sbjBaxq-BLR8g/master.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/original/utRSduMXbtwrnJAehftxmElSMes.jpg"tvg-chno=""group-title="🍿 Movies",Enderova hra (2013)
 http://vodc-sk-bts-six.fastad.pro/dhls/25536/mZtmokpRoMjOKSF7bSKalMhbFsFzNM7bNYoaqrk34Zg4GbhROkWdk4iTXByghIbq9ilo1Q78X4AmR9qCKOIVxg/master.m3u8
+#EXTINF:-1 media=""tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/kyKJNCWVx5zEXouW9AuEJsHVlnE.jpg"tvg-chno=""group-title="🍿 Movies",Narnia  Lev, šatník a čarodejnica (2005)
+http://vodc-sk-bts-six.fastad.pro/dhls/20002/UVdQG1v2YpZmKhRsx48hLZPd3n1pixYSQ7JmeCLLTBVfPH4zQYrwNFQdeMGQg6B490dBrCAFfjUwjuP1-Zmmmg/master.m3u8
+#EXTINF:-1 media="Horror"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/12eaqlpfD9CGVFSjMHu34omPj2g.jpg"tvg-chno=""group-title="🍿 Movies",Alien³ (1992)
+http://vodc-sk-bts-six.fastad.pro/dhls/19632/_nlgsAshuZuMbC59ou2GJU7JQGJtttLDJims47k0NKexhLmrxBMb8EP_nQDlU4xWXfeIAfvHQdMvMb5mrX05tQ/master.m3u8
 #EXTINF:-1 media="Horror"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/c4u2pJZVztkIUozE4cveddKQN9V.jpg"tvg-chno=""group-title="🍿 Movies",Alien (1979) (Director's Cut)
 http://23.147.64.113/movies/Other/Alien%20%281979%29%20%28Director%27s%20Cut%29.mkv
 #EXTINF:-1 media="Horror"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/c4u2pJZVztkIUozE4cveddKQN9V.jpg"tvg-chno=""group-title="🍿 Movies",Alien (1979) (Theatrical Cut)
@@ -181,8 +177,6 @@ http://23.147.64.113/movies/Other/Alien%20%281979%29%20%28Theatrical%20Cut%29.mk
 http://23.147.64.113/movies/Other/Aliens%20%281986%29%20%28Special%20Edition%29.mkv
 #EXTINF:-1 media="Horror"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/kd9IlTr9QYC1dSc9Mfk4Hv6g1bG.jpg"tvg-chno=""group-title="🍿 Movies",Aliens (1986) (Theatrical Edition)
 http://23.147.64.113/movies/Other/Aliens%20%281986%29%20%28Theatrical%20Edition%29.mkv
-#EXTINF:-1 media="Horror"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/12eaqlpfD9CGVFSjMHu34omPj2g.jpg"tvg-chno=""group-title="🍿 Movies",Alien³ (1992)
-http://vodc-sk-bts-six.fastad.pro/dhls/19632/_nlgsAshuZuMbC59ou2GJU7JQGJtttLDJims47k0NKexhLmrxBMb8EP_nQDlU4xWXfeIAfvHQdMvMb5mrX05tQ/master.m3u8
 #EXTINF:-1 media="Horror"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/12eaqlpfD9CGVFSjMHu34omPj2g.jpg"tvg-chno=""group-title="🍿 Movies",Alien³ (1992) (Assembly Cut)
 http://23.147.64.113/movies/Other/Alien%C2%B3%20%281992%29%20%28Assembly%20Cut%29.mkv
 #EXTINF:-1 media="Horror"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/12eaqlpfD9CGVFSjMHu34omPj2g.jpg"tvg-chno=""group-title="🍿 Movies",Alien³ (1992) (Theatrical Cut)
@@ -217,8 +211,8 @@ http://142.202.51.5:11500/4b80b837634f6ec4e18ff6808a8104f2/video.m3u8?token=8cd4
 http://142.202.51.5:11500/1566fbedc44910a80f2ff3c7624b9c73/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:23,PS3
 http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:0 type="playlist" size="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qNToa9ywi7rDEh75PMMctam7des.jpg" group-title="HBO ᴴᴰ",Pán prsteňov: Návrat kráľa
-https://prehrajto.cz/pan-prstenu-navrat-krale-prodlouzena-verze-2003/68954785d75ca?do=download
+
+
 
 
 
