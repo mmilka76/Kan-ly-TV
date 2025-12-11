@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:56 type="playlist" size="Medium" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBC/847-jednotka-hd.png" group-title="CZ| ZáKLADNé ᴴᴰ",
+#EXTINF:56 type="playlist" size="Medium" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBC/847-jednotka-hd.png" group-title="CZ| ZáKLADNé ᴴᴰ",Jednotka
 https://bratislava.fastad.pro/stream/u4qf4k5hwr79ud6zbqg34xzfvn7a7m6chk25fner2iqt8tym4ii395gujavv8u2hbk57zm29fqaynu52ty4ef3i2bcwfkghysdcvisnedrjze5jg4uurxv6qw5g44fbdr6a6cz9z5xwjxbs28gp3evk6rbr563gd8fxbaaa3vjahzbv6ifywkmg2we======.m3u8
 #EXTINF:56 type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Oneplay%20Sport%201%20HD.png" group-title="CZ| SPORT ᴴᴰ",Oneplay Sport 1 HD
 http://142.202.51.5:11500/ba666fbedc44910a80f2ff3c7624b9c73a/video.m3u8?token=8cd42917778958ac401318dd4968d644
@@ -25,6 +25,7 @@ http://142.202.51.5:11500/1566fbedc44910a80f2ff3c7624b9c73/video.m3u8?token=8cd4
 http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:0 type="playlist" size="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qNToa9ywi7rDEh75PMMctam7des.jpg" group-title="HBO ᴴᴰ",Pán prsteňov: Návrat kráľa
 https://prehrajto.cz/pan-prstenu-navrat-krale-prodlouzena-verze-2003/68954785d75ca?do=download
+
 
 
 
