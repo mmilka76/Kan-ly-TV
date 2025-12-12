@@ -135,7 +135,9 @@ http://vodc-sk-bts-six.fastad.pro/dhls/26006/1QRgg3WgCjfOUx-iAS34bFrPZIT2s9ELfa3
 http://vodc-sk-bts-six.fastad.pro/dhls/25536/mZtmokpRoMjOKSF7bSKalMhbFsFzNM7bNYoaqrk34Zg4GbhROkWdk4iTXByghIbq9ilo1Q78X4AmR9qCKOIVxg/master.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/kyKJNCWVx5zEXouW9AuEJsHVlnE.jpg"tvg-chno=""group-title="🍿 Movies",Narnia  Lev, šatník a čarodejnica (2005)
 http://vodc-sk-bts-six.fastad.pro/dhls/20002/UVdQG1v2YpZmKhRsx48hLZPd3n1pixYSQ7JmeCLLTBVfPH4zQYrwNFQdeMGQg6B490dBrCAFfjUwjuP1-Zmmmg/master.m3u8
-#EXTINF:-1 media="movie"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/12eaqlpfD9CGVFSjMHu34omPj2g.jpg"tvg-chno=""group-title="🍿 Movies",Alien³ (1992)
+#EXTINF:-1 media="movie"tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/12eaqlpfD9CGVFSjMHu34omPj2g.jpg"tvg-chno=""group-title="🍿 Movies",Votrelec (1979)
+http://vodc-stu-six-bts.fastad.pro/dhls/18060/LUBuCARaVAtOBCqoM_lNXeKbUK1t4XrYqG-GwSLMTmHy0mOEOcA2uNaKuQGxH4QEoA7iNgp1quKpSlWdvxqwqg/master.m3u8
+#EXTINF:-1 media="movie"tvg-id=""tvg-logo="https://image.tmdb.org/t/p/original/q0ey4M58fdTrjqtlp5lP81kHF6e.jpg"tvg-chno=""group-title="🍿 Movies",Votrelec³ (1992)
 http://vodc-sk-bts-six.fastad.pro/dhls/19632/_nlgsAshuZuMbC59ou2GJU7JQGJtttLDJims47k0NKexhLmrxBMb8EP_nQDlU4xWXfeIAfvHQdMvMb5mrX05tQ/master.m3u8
 #EXTINF:-1 media="movie"tvg-id=""https://www.themoviedb.org/t/p/w600_and_h900_face/jZqWx54Gflg5vSBGTy5ETTEzbNk.jpg"tvg-chno=""group-title="🍿 Movies",X-Men 2 (2003)
 http://vodc-stu-six-bts.fastad.pro/dhls/31051/6LORwHTWmkkZ03-CIHAZVznhbDS_pmnA3wjv5tq0JqQyjHvTxhSTFeLp8Ffh3eZtgxd4Sbz1CYPQGiOIHPbjzQ/master.m3u8
@@ -181,6 +183,7 @@ http://142.202.51.5:11500/4b80b837634f6ec4e18ff6808a8104f2/video.m3u8?token=8cd4
 http://142.202.51.5:11500/1566fbedc44910a80f2ff3c7624b9c73/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:23,PS3
 http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd42917778958ac401318dd4968d644
+
 
 
 
