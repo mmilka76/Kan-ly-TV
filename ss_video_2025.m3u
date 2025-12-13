@@ -83,7 +83,7 @@ http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9icmF0aXNsYXZhLmZhc3RhZC5wcm8vc3RyZWFtL3JjbmdlcXM0Y2F3dnp5aDh6bXM3NnF6MnpjM2lrMzZpNXpwc3p3aTMzcmR6aHdqZTNuZXo0dHFnc2t0bmFhbXRyMmR6YXhqeWRmcjI1NXVjYmVncnVkdnhpZDk5cjZlZ3l3a3hrNXVjY2tmdGVxbWNpdjZzNmI4ZHY4ZHgzNzVuOGhkbTRwcmNiM2J0MnRiMzJnZGFuNmN1MnVxcDJzYmk5c2NoY2ttM3AzbnZianM9&u=16985740068234892230&session=17078565557429153150&variant=2&c=3257&dt=2&p=15&e=0&aid=&sp=0
 #EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4BGIBC/2488-travel-adventures-hd.png" tvg-chno="" group-title="sweet.tv",[Dokumentárne] Cestovanie a dobrodružstvo HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9icmF0aXNsYXZhLmZhc3RhZC5wcm8vc3RyZWFtLzZrcXlpeDdxd3ppNXczODhwbWNkZ2RrYTNoM2U0YWZmYjZyeTk2ZTJlcTltcmtnaTdieng4YXc5MmR2ZnU2NXduaHVndGViZ3Z0cWF3NW1xeWpyNTd1Mnc0dThnOWk4cXdzOHV1c3M2Znl1d3p2dHdjcjY3YTd3bTR4aDI4aTdxN3d0MzNxNHM5ZmJhZ244NnI4cnNoaGo5eGJpc3ljYms5emRybWI3dm52OGVuPT09&u=16985740068234892230&session=9279462035857867602&variant=2&c=2488&dt=2&p=15&e=0&aid=&sp=0
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDBAYIBC/1602-joj-svet-hd.png"tvg-chno=""group-title="Czech/Slovakia",[Dokumentárne] JOJ Svet FHD
+#EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDBAYIBC/1602-joj-svet-hd.png"tvg-chno=""group-title="Czech/Slovakia",[Dokumentárne] JOJ Svet HD
 http://bratislava.fastad.pro/stream/458z4pgds9pe76yqrp855svmcfx5rugmgzv7is32eq6mt7i76ijj7yrzaqaprqk6vtc2te6x2v2wxzpd22wkstpi426m56u9xx9k92ft76fdxhiwni6m745unfn9x69rmieyvhfkdawq364h5hefwh9uc4q2hbfszga3iah4gyzd4cm3xn9rmsi=.m3u8
 #EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDRRIIBC/2659-pure-nature-hd.png" tvg-chno="" group-title="sweet.tv",[Dokumentárne] Pure Nature HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9icmF0aXNsYXZhMTEuZmFzdGFkLnByby9zdHJlYW0vYWJkZnhoM2RzdGlkNmRrdzdmaHlma3RyajNibXFhNThucHNhNzN0OHZwajU3NGV5bmFjOHk5N3NtdmU2cnA2cnJ3bXJtZ2Y2YnM4bmZhN3R3amsyN2NtZTZlaHRpd2Uzd3V4bjJtNnUzeWhndmtlNnFoZDhldjl1Y3Z2bXF2Y3M0aW53ZGE3bXp5Z3c1OWZmaGU0eGd1OTR4MmludnA5OXo4dXZlcWh4cXdwenU1cz0=&u=16985740068234892230&session=2084352290130012892&variant=2&c=2659&dt=2&p=15&e=0&aid=&sp=0
@@ -239,6 +239,7 @@ http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd
 https://bratislava.fastad.pro/stream/4uqceuntay9bswxh9efdbg8traftzpz5fyiqqgza3paz52vh5suy23f596e6mxkqgqvk7jixbvkaf7ivpackndncp4tk5y8xjj6czmn8h3nviabqr4tjzzccnvqanu6mnhfmpqer3pczdxec2fbadwaunmaax2nxnkxn2shnjhsitvzg8dxbn6zn66xrtjgq5i======.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDGQOIBC/973-film-hd.png"tvg-chno=""group-title="Sweet.TV",Film + HD
 https://bratislava.fastad.pro/stream/7zx4pqtuyabzsnb5t7rmmpbkz976iu6i58rt8uy7s9kc6pgfgygc3nufjkv2k3cbvcwjetsdrvcy8jz7242sirwzi86qcz5je54pbewy2gx6tmqpkkbwgw6hz4etcsqhvjfdu6q33h87m5cawh6ua45jj2ndypemq6s2vzgj8h7a3dhb36jma===.m3u8
+
 
 
 
