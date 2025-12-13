@@ -194,7 +194,7 @@ http://vodc-stu-six-bts.fastad.pro/dhls/18715/nvIWhM_Tq22sM1iRH1rzuq_3nAjTtF5IHC
 #EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Rambo: Do pekla a naspäť
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cDovL3RzMWNtMi1zay1idHMtc2l4LmZhc3RhZC5wcm8vZHZyZmFzdGFkcy84MzYvMTcyNTAxL2E1MDliODdjNWUxZjZkMjcvNndtOGhhdjN6eWptcnF2OThmdHQ5eHB6cm1lYWZiZ2tjenR0ZXVkYWY4eWM2eXVhZmQ1Y3V5Njh4Zzl2dmF2eHV4cWRxZmR0Z2c5c3B2dmp4M2ZzMnVlenAyY21hNGN1Nm1qZWU1aDh3OXpxOGpxeGVnOGtqNmd2eWR5aXB5eGRyeTVkNHg1NWhyNnMyNmp4OTl5d2Q3ZWN3ODN6N2l6ZWFwcmR5N21jdG15MmhkODYzM2dhPT09PS9tYXN0ZXIubTN1OA==&u=8111618206403704783&session=18170335586593989979&variant=2&c=3583&dt=1&p=15&e=891234344&aid=d3d12165-0d05-4867-9cc6-0b57bb2f134a&sp=m3u8
 #EXTINF:-1,[Stredovek] Statečné srdce
-//prehrajto.cz/statecne-srdce-1995-uhdrdv-cz-en/68abfda1e98d7?do=download
+http://prehrajto.cz/statecne-srdce-1995-uhdrdv-cz-en/68abfda1e98d7?do=download
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://thumbnailer.mixcloud.com/unsafe/756x756/extaudio/4/6/7/d/b52d-f8d1-4abb-9d1a-05e9720dbc45"tvg-chno=""group-title="🎧",[Mixes] Back To The Old Skool Club Classics CD 1 (2003)
 https://audio24.mixcloud.com/secure/hls/9/8/e/d/a17b-93f5-4932-b567-e4103a68204d.m4a/streamindex-a1.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://thumbnailer.mixcloud.com/unsafe/756x756/extaudio/4/6/7/d/b52d-f8d1-4abb-9d1a-05e9720dbc45"tvg-chno=""group-title="🎧",[Mixes] Back To The Old Skool Club Classics CD 2 (2003)
@@ -219,6 +219,7 @@ http://142.202.51.5:11500/189fbvgherne65wq89z8uvsztzt24w8t/video.m3u8?token=8cd4
 http://142.202.51.5:11500/sadcdsoirewfcsaldkwjetze984656e5/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:22type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%205%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 5 HD
 http://142.202.51.5:11500/NS5/video.m3u8?token=8cd42917778958ac401318dd4968d644
+
 
 
 
