@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBC/847-jednotka-hd.png" tvg-chno="" group-title="sweet.tv",[Národné] Jednotka HD
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBC/847-jednotka-hd.png" tvg-chno="" group-title="Národné",Jednotka HD
 http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDIAMIBC/848-dvojka-hd.png" tvg-chno="" group-title="sweet.tv",[Národné] Dvojka HD
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDIAMIBC/848-dvojka-hd.png" tvg-chno="" group-title="Národné",Dvojka HD
 http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 media="" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png" tvg-chno="" group-title="Sweet.TV",[Národné] Markíza HD
+#EXTINF:-1 media="" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png" tvg-chno="" group-title="Národné",Markíza HD
 http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 media="playlist" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5AOIBC/954-doma-hd.png" tvg-chno="" group-title="Sweet.TV",[Národné] Doma HD
+#EXTINF:-1 media="playlist" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5AOIBC/954-doma-hd.png" tvg-chno="" group-title="Národné",Doma HD
 http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 media="playlist" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBC/814-joj-hd.png" tvg-chno="" group-title="Sweet.TV",[Národné] JOJ HD
+#EXTINF:-1 media="playlist" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBC/814-joj-hd.png" tvg-chno="" group-title="Národné",JOJ HD
 http://212.102.38.45/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXRYIBC/3631-magical-christmas-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Magical Christmas HD
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXRYIBC/3631-magical-christmas-hd.png" tvg-chno="" group-title="Filmové",Magical Christmas HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9ocnByd2JncXEzOWc1dXI0dnljdmV1OTl5dmhkdTN6dGk1aW1qZHRlc2prbWNwZXNnN3g1aXFtYmJ2djJrY2oydmNncGs5dTVkOHY2c3R1dXI2cmQ1bmRzMjd6am4yd2JjbXJnanBqdWo1dTR3eGlzd204ZmJ0aHl2aDQ5ZnZ2d3hhd3Z1dXg4ZWE3ZHZobm0yOWRoejZkZnpqeHgzcHM5emV4bWk2cmd3YTN0dDh1YmF0cGY2eWZpd2FpeWIzancyNHdoOD09PQ==&u=14799306804625281580&session=7127077338446063691&variant=2&c=3631&dt=2&p=15&e=0&aid=&sp=0
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCSROIBC/2981-top-movies-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Najlepšie filmy HD
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCSROIBC/2981-top-movies-hd.png" tvg-chno="" group-title="Filmové",Najlepšie filmy HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS8yN2NwNXhienJ2YWd1Y2R3Z21qcDR4cGg2M2lodjh3dnYzcXloczVmOGJ1ZTdkdDg5Mnc5NHFuZ3dpcnZwdDd4d2l1OXBuNHJ6ZWV6cjdmNHNjNjJ2Nmluazk1NGhtbWV2cGtxOXh3eXdocGo5ZXRkanB2cTd1bXNpcXZlaWNhNGV0bXA0N21kanlyc21tZHh6YXlmdnpxcnBwZnloeGQ5NTJ3YmMybXU1cjM5c215ZzVoM2ZlNDJldnB4Zmp2a25xazRzPT09PQ==&u=14799306804625281580&session=8214678353446726815&variant=2&c=2981&dt=2&p=15&e=0&aid=&sp=0
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLA6IBC/2006-action-zone-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Akčná zóna HD
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLA6IBC/2006-action-zone-hd.png" tvg-chno="" group-title="Filmové",Akčná zóna HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9zcmF5anZjd2c1bjI1OWJzdzNrczdzMmoyNGZmNnN0cTc4cGJ2N2E1MmF0ZHZxdjlmcG1zd3Y0eWduYWpoN3h6c2plaTdiZ3B1M203cjV0YXUycTJ3cHoycWo4NHQ0NGNzY2VyeHdxaHJmOHc0aXJ5OW5xd2ttODhlcGUzdnozZmtheDNoemVuNGp2N3hhejh3eHpqZDhrbWlhdmV2d2VybjhoM2o2cTJrZjZ4ZHZtcHB2NDlieGdncnZ0NnQ0a3o0bjNnOD09PQ==&u=14799306804625281580&session=8075303518807675189&variant=2&c=2006&dt=2&p=15&e=0&aid=&sp=0
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD7RWIBC/3583-worldwide-hits-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Svetové hity HD
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD7RWIBC/3583-worldwide-hits-hd.png" tvg-chno="" group-title="Filmové",Svetové hity HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9oY3dpNzhybmI0ZXhjeHU3azk5OTd3Mmp6bXlxbnFpbmVqbjJreTNmcDgzemZ6Nmd2dnlhMzRxYmQ1OTlyeXRzN2JmZ3NzdjdlY2NyN3J1ZXUzd2dwZXhwcjdidWQzZ3ZwdmdteDNmaW04dzN0cnp1eDZicWprN2JtemJyZWZ2aHdlODRkbWV1cHFnNG1tcGd1OG1qd3U1emt1OWkzZXNnNWt2MmVuN2d3M20yeXlyejd4bW12YzR5eTNkcWY0MzU0czlzPT09PQ==&u=14799306804625281580&session=12821468143746713100&variant=2&c=3583&dt=2&p=15&e=0&aid=&sp=0
 #EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCLBWIBC/3478-adrenaline-rush-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Adrenalínový nával HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9hZGFpbnA1ODhmOHkyY3NzemJoNTJ0Ymd2am04bmp2ajljYnd0aXdnNm1lMmVjczc2YnM4cXhzcWhtMms5enV2cnBpOTRlNGt0aHVycW5lbnhlc2J0bmVnNTV5anJ1d21hNWk1dzg5cWsyeWRkY2Y3Nmo0aHJkZDY5YzhpeXNqM2lkMzVrNHBjZ202ejU5YTJuNTdjZHJuejh2ZnVzM3V6ZW55NXJ3a2N0bmlubnNxZXVmMjk0eTY3ZTI1enRzeDh5Y2NoaHQyPQ==&u=14799306804625281580&session=11055061190728463769&variant=2&c=3478&dt=2&p=15&e=0&aid=&sp=0
@@ -221,6 +221,7 @@ http://142.202.51.5:11500/189fbvgherne65wq89z8uvsztzt24w8t/video.m3u8?token=8cd4
 http://142.202.51.5:11500/sadcdsoirewfcsaldkwjetze984656e5/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:22type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%205%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 5 HD
 http://142.202.51.5:11500/NS5/video.m3u8?token=8cd42917778958ac401318dd4968d644
+
 
 
 
