@@ -1,0 +1,429 @@
+#EXTM3U
+#EXTINF:0 tvg-id="847.id.com" tvg-name="Jednotka HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBCNABA====/847-jednotka-hd.png" group-title="Národné;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/847|{catchup-id}",Jednotka HD
+plugin://plugin.video.sweettv/playvid/847|null
+#EXTINF:0 tvg-id="848.id.com" tvg-name="Dvojka HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIAMIBCNABA====/848-dvojka-hd.png" group-title="Národné;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/848|{catchup-id}",Dvojka HD
+plugin://plugin.video.sweettv/playvid/848|null
+#EXTINF:0 tvg-id="952.id.com" tvg-name="Markíza HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBCNABA====/952-markiza-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/952|{catchup-id}",Markíza HD
+plugin://plugin.video.sweettv/playvid/952|null
+#EXTINF:0 tvg-id="954.id.com" tvg-name="Doma HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5AOIBCNABA====/954-doma-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/954|{catchup-id}",Doma HD
+plugin://plugin.video.sweettv/playvid/954|null
+#EXTINF:0 tvg-id="814.id.com" tvg-name="JOJ HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBCNABA====/814-joj-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/814|{catchup-id}",JOJ HD
+plugin://plugin.video.sweettv/playvid/814|null
+#EXTINF:0 tvg-id="3631.id.com" tvg-name="Magical Christmas HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXRYIBCNABA====/3631-magical-christmas-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3631|{catchup-id}",Magical Christmas HD
+plugin://plugin.video.sweettv/playvid/3631|null
+#EXTINF:0 tvg-id="2981.id.com" tvg-name="Najlepšie filmy HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCSROIBCNABA====/2981-top-movies-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2981|{catchup-id}",Najlepšie filmy HD
+plugin://plugin.video.sweettv/playvid/2981|null
+#EXTINF:0 tvg-id="3583.id.com" tvg-name="Svetové hity HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD7RWIBCNABA====/3583-worldwide-hits-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3583|{catchup-id}",Svetové hity HD
+plugin://plugin.video.sweettv/playvid/3583|null
+#EXTINF:0 tvg-id="3478.id.com" tvg-name="Adrenalínový nával HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLBWIBCNABA====/3478-adrenaline-rush-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3478|{catchup-id}",Adrenalínový nával HD
+plugin://plugin.video.sweettv/playvid/3478|null
+#EXTINF:0 tvg-id="2006.id.com" tvg-name="Akčná zóna HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDLA6IBCNABA====/2006-action-zone-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2006|{catchup-id}",Akčná zóna HD
+plugin://plugin.video.sweettv/playvid/2006|null
+#EXTINF:0 tvg-id="3578.id.com" tvg-name="Dobrodružný kaleidoskop HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD5BWIBCNABA====/3578-adventure-caleidoscope-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3578|{catchup-id}",Dobrodružný kaleidoskop HD
+plugin://plugin.video.sweettv/playvid/3578|null
+#EXTINF:0 tvg-id="3477.id.com" tvg-name="Napäté chvíle HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCKRWIBCNABA====/3477-suspense-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3477|{catchup-id}",Napäté chvíle HD
+plugin://plugin.video.sweettv/playvid/3477|null
+#EXTINF:0 tvg-id="3581.id.com" tvg-name="Big Steps HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD6RWIBCNABA====/3581-big-steps-hd.png" group-title="TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3581|{catchup-id}",Big Steps HD
+plugin://plugin.video.sweettv/playvid/3581|null
+#EXTINF:0 tvg-id="3480.id.com" tvg-name="Komediálne hity HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMBWIBCNABA====/3480-comedy-picks-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3480|{catchup-id}",Komediálne hity HD
+plugin://plugin.video.sweettv/playvid/3480|null
+#EXTINF:0 tvg-id="3642.id.com" tvg-name="Hry o peniaze HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5BYIBCNABA====/3642-money-games-hd.png" group-title="TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3642|{catchup-id}",Hry o peniaze HD
+plugin://plugin.video.sweettv/playvid/3642|null
+#EXTINF:0 tvg-id="3257.id.com" tvg-name="Svet naruby HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4RSIBCNABA====/3257-the-world-inside-out-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3257|{catchup-id}",Svet naruby HD
+plugin://plugin.video.sweettv/playvid/3257|null
+#EXTINF:0 tvg-id="2488.id.com" tvg-name="Cestovanie a dobrodružstvo HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4BGIBCNABA====/2488-travel-adventures-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2488|{catchup-id}",Cestovanie a dobrodružstvo HD
+plugin://plugin.video.sweettv/playvid/2488|null
+#EXTINF:0 tvg-id="3621.id.com" tvg-name="Podmorské dobrodružstvá HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCSRYIBCNABA====/3621-undersea-adventures-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3621|{catchup-id}",Podmorské dobrodružstvá HD
+plugin://plugin.video.sweettv/playvid/3621|null
+#EXTINF:0 tvg-id="3399.id.com" tvg-name="Šmolkovia HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDDRUIBCNABA====/3399-smurfs-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3399|{catchup-id}",Šmolkovia HD
+plugin://plugin.video.sweettv/playvid/3399|null
+#EXTINF:0 tvg-id="3599.id.com" tvg-name="Šteniatková patrola HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCHRYIBCNABA====/3599-paw-patrol-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3599|{catchup-id}",Šteniatková patrola HD
+plugin://plugin.video.sweettv/playvid/3599|null
+#EXTINF:0 tvg-id="3633.id.com" tvg-name="Kreslené mesto HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYRYIBCNABA====/3633-toon-town-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3633|{catchup-id}",Kreslené mesto HD
+plugin://plugin.video.sweettv/playvid/3633|null
+#EXTINF:0 tvg-id="3418.id.com" tvg-name="Filmový kaleidoskop HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDNBUIBCNABA====/3418-movie-caleidoscope-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3418|{catchup-id}",Filmový kaleidoskop HD
+plugin://plugin.video.sweettv/playvid/3418|null
+#EXTINF:0 tvg-id="3315.id.com" tvg-name="Nemocnice Hope HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZRSIBCNABA====/3315-saving-hope-hd.png" group-title="TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3315|{catchup-id}",Nemocnice Hope HD
+plugin://plugin.video.sweettv/playvid/3315|null
+#EXTINF:0 tvg-id="2009.id.com" tvg-name="Čas na thriller HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDMQ6IBCNABA====/2009-thriller-time-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2009|{catchup-id}",Čas na thriller HD
+plugin://plugin.video.sweettv/playvid/2009|null
+#EXTINF:0 tvg-id="953.id.com" tvg-name="Markíza KRIMI HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4QOIBCNABA====/953-markiza-krimi-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/953|{catchup-id}",Markíza KRIMI HD
+plugin://plugin.video.sweettv/playvid/953|null
+#EXTINF:0 tvg-id="955.id.com" tvg-name="Dajto HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5QOIBCNABA====/955-dajto-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/955|{catchup-id}",Dajto HD
+plugin://plugin.video.sweettv/playvid/955|null
+#EXTINF:0 tvg-id="816.id.com" tvg-name="JOJ PLUS HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYAMIBCNABA====/816-joj-plus-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/816|{catchup-id}",JOJ PLUS HD
+plugin://plugin.video.sweettv/playvid/816|null
+#EXTINF:0 tvg-id="818.id.com" tvg-name="Wau HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCZAMIBCNABA====/818-wau-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/818|{catchup-id}",Wau HD
+plugin://plugin.video.sweettv/playvid/818|null
+#EXTINF:0 tvg-id="2005.id.com" tvg-name="Rodinná zábava HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKQ6IBCNABA====/2005-family-fun-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2005|{catchup-id}",Rodinná zábava HD
+plugin://plugin.video.sweettv/playvid/2005|null
+#EXTINF:0 tvg-id="2007.id.com" tvg-name="Komediálny vesmír HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDLQ6IBCNABA====/2007-comedy-universe-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2007|{catchup-id}",Komediálny vesmír HD
+plugin://plugin.video.sweettv/playvid/2007|null
+#EXTINF:0 tvg-id="3471.id.com" tvg-name="Dramatické noci HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCHRWIBCNABA====/3471-dramatic-nights-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3471|{catchup-id}",Dramatické noci HD
+plugin://plugin.video.sweettv/playvid/3471|null
+#EXTINF:0 tvg-id="2008.id.com" tvg-name="Skutočná dráma HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDMA6IBCNABA====/2008-real-drama-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2008|{catchup-id}",Skutočná dráma HD
+plugin://plugin.video.sweettv/playvid/2008|null
+#EXTINF:0 tvg-id="3479.id.com" tvg-name="Strašidelný svet HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLRWIBCNABA====/3479-horror-land-hd.png" group-title="Filmové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3479|{catchup-id}",Strašidelný svet HD
+plugin://plugin.video.sweettv/playvid/3479|null
+#EXTINF:0 tvg-id="2088.id.com" tvg-name="Markiza Klasik HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCUBAIBCNABA====/2088-markiza-klasik-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2088|{catchup-id}",Markiza Klasik HD
+plugin://plugin.video.sweettv/playvid/2088|null
+#EXTINF:0 tvg-id="813.id.com" tvg-name="JOJ Cinema HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCWQMIBCNABA====/813-joj-cinema-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/813|{catchup-id}",JOJ Cinema HD
+plugin://plugin.video.sweettv/playvid/813|null
+#EXTINF:0 tvg-id="3375.id.com" tvg-name="Discovering the World HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXRUIBCNABA====/3375-discovering-the-world-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3375|{catchup-id}",Discovering the World HD
+plugin://plugin.video.sweettv/playvid/3375|null
+#EXTINF:0 tvg-id="3605.id.com" tvg-name="Filmové legendy HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCKRYIBCNABA====/3605-movie-legends-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3605|{catchup-id}",Filmové legendy HD
+plugin://plugin.video.sweettv/playvid/3605|null
+#EXTINF:0 tvg-id="3560.id.com" tvg-name="Science & Innovation HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDUBWIBCNABA====/3560-science-and-innovation-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3560|{catchup-id}",Science & Innovation HD
+plugin://plugin.video.sweettv/playvid/3560|null
+#EXTINF:0 tvg-id="2318.id.com" tvg-name="Zmapované vraždy HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCHBEIBCNABA====/2318-murder-maps-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2318|{catchup-id}",Zmapované vraždy HD
+plugin://plugin.video.sweettv/playvid/2318|null
+#EXTINF:0 tvg-id="2323.id.com" tvg-name="Politické dejiny HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCJREIBCNABA====/2323-political-history-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2323|{catchup-id}",Politické dejiny HD
+plugin://plugin.video.sweettv/playvid/2323|null
+#EXTINF:0 tvg-id="2331.id.com" tvg-name="Prezidenti a vodcovia HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNREIBCNABA====/2331-presidents-leaders-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2331|{catchup-id}",Prezidenti a vodcovia HD
+plugin://plugin.video.sweettv/playvid/2331|null
+#EXTINF:0 tvg-id="758.id.com" tvg-name="TA3 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD3AKIBCNABA====/758-ta3-hd.png" group-title="Spravodajské;Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/758|{catchup-id}",TA3 HD
+plugin://plugin.video.sweettv/playvid/758|null
+#EXTINF:0 tvg-id="961.id.com" tvg-name="JOJ 24 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDAQOIBCNABA====/961-joj-24-hd.png" group-title="Spravodajské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/961|{catchup-id}",JOJ 24 HD
+plugin://plugin.video.sweettv/playvid/961|null
+#EXTINF:0 tvg-id="3606.id.com" tvg-name="Mladé ninja korytnačky HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLBYIBCNABA====/3606-ninja-action-channel-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3606|{catchup-id}",Mladé ninja korytnačky HD
+plugin://plugin.video.sweettv/playvid/3606|null
+#EXTINF:0 tvg-id="3591.id.com" tvg-name="BABY SHARK TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCDRYIBCNABA====/3591-baby-shark-tv-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" ,BABY SHARK TV HD
+plugin://plugin.video.sweettv/playvid/3591|null
+#EXTINF:0 tvg-id="3517.id.com" tvg-name="Mattel Junior HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC6RWIBCNABA====/3517-mattel-junior-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3517|{catchup-id}",Mattel Junior HD
+plugin://plugin.video.sweettv/playvid/3517|null
+#EXTINF:0 tvg-id="3541.id.com" tvg-name="Dobrodružstvá s kamarátmi HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKRWIBCNABA====/3541-test-channel.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3541|{catchup-id}",Dobrodružstvá s kamarátmi HD
+plugin://plugin.video.sweettv/playvid/3541|null
+#EXTINF:0 tvg-id="3443.id.com" tvg-name="Talking Tom Shorts HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZRUIBCNABA====/3443-talking-tom-shorts-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3443|{catchup-id}",Talking Tom Shorts HD
+plugin://plugin.video.sweettv/playvid/3443|null
+#EXTINF:0 tvg-id="3110.id.com" tvg-name="Cocobi TV. Song HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCTBQIBCNABA====/3110-cocobi-tv-song-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3110|{catchup-id}",Cocobi TV. Song HD
+plugin://plugin.video.sweettv/playvid/3110|null
+#EXTINF:0 tvg-id="3109.id.com" tvg-name="Cocobi TV. Fun Play HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCSRQIBCNABA====/3109-cocobi-tv-fun-play-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3109|{catchup-id}",Cocobi TV. Fun Play HD
+plugin://plugin.video.sweettv/playvid/3109|null
+#EXTINF:0 tvg-id="815.id.com" tvg-name="Jojko HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXQMIBCNABA====/815-jojko-hd.png" group-title="Dеtské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/815|{catchup-id}",Jojko HD
+plugin://plugin.video.sweettv/playvid/815|null
+#EXTINF:0 tvg-id="725.id.com" tvg-name="Rik TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKQKIBCNABA====/725-rik-tv-hd.png" group-title="Dеtské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/725|{catchup-id}",Rik TV HD
+plugin://plugin.video.sweettv/playvid/725|null
+#EXTINF:0 tvg-id="2648.id.com" tvg-name="Men With The Pot HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDMBIIBCNABA====/2648-men-with-the-pot-hd.png" group-title="TV zadarmo;Kuchárske;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2648|{catchup-id}",Men With The Pot HD
+plugin://plugin.video.sweettv/playvid/2648|null
+#EXTINF:0 tvg-id="3162.id.com" tvg-name="Hollywoodske príbehy HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDNBQIBCNABA====/3162-hollywood-stories-hd.png" group-title="Filmové;Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3162|{catchup-id}",Hollywoodske príbehy HD
+plugin://plugin.video.sweettv/playvid/3162|null
+#EXTINF:0 tvg-id="2320.id.com" tvg-name="Filmové hviezdy HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCIBEIBCNABA====/2320-movie-stars-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2320|{catchup-id}",Filmové hviezdy HD
+plugin://plugin.video.sweettv/playvid/2320|null
+#EXTINF:0 tvg-id="2319.id.com" tvg-name="Video killed the radio stars HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCHREIBCNABA====/2319-video-killed-the-radio-star-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2319|{catchup-id}",Video killed the radio stars HD
+plugin://plugin.video.sweettv/playvid/2319|null
+#EXTINF:0 tvg-id="2321.id.com" tvg-name="Dejiny módy HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCIREIBCNABA====/2321-fashion-history-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2321|{catchup-id}",Dejiny módy HD
+plugin://plugin.video.sweettv/playvid/2321|null
+#EXTINF:0 tvg-id="2322.id.com" tvg-name="Historické postavy HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCJBEIBCNABA====/2322-historical-figures-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2322|{catchup-id}",Historické postavy HD
+plugin://plugin.video.sweettv/playvid/2322|null
+#EXTINF:0 tvg-id="1478.id.com" tvg-name="Kanal 1 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDDAWIBCNABA====/1478-spark-tv-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1478|{catchup-id}",Kanal 1 HD
+plugin://plugin.video.sweettv/playvid/1478|null
+#EXTINF:0 tvg-id="755.id.com" tvg-name="Prima SK HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZQKIBCNABA====/755-prima-plus-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/755|{catchup-id}",Prima SK HD
+plugin://plugin.video.sweettv/playvid/755|null
+#EXTINF:0 tvg-id="863.id.com" tvg-name="Prima COOL SK HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDPQMIBCNABA====/863-prima-cool-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/863|{catchup-id}",Prima COOL SK HD
+plugin://plugin.video.sweettv/playvid/863|null
+#EXTINF:0 tvg-id="864.id.com" tvg-name="Prima LOVE SK HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDQAMIBCNABA====/864-prima-love-sk-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/864|{catchup-id}",Prima LOVE SK HD
+plugin://plugin.video.sweettv/playvid/864|null
+#EXTINF:0 tvg-id="866.id.com" tvg-name="Prima Krimi SK HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDRAMIBCNABA====/866-prima-krimi-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/866|{catchup-id}",Prima Krimi SK HD
+plugin://plugin.video.sweettv/playvid/866|null
+#EXTINF:0 tvg-id="834.id.com" tvg-name="Arena Sport 1 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDBAMIBCNABA====/834-arena-sport-1-hd.png" group-title="Športové;HD kanály" ,Arena Sport 1 HD
+plugin://plugin.video.sweettv/playvid/834|null
+#EXTINF:0 tvg-id="835.id.com" tvg-name="Arena Sport 2 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDBQMIBCNABA====/835-arena-sport-2-hd.png" group-title="Športové;HD kanály" ,Arena Sport 2 HD
+plugin://plugin.video.sweettv/playvid/835|null
+#EXTINF:0 tvg-id="2329.id.com" tvg-name="Monarchie a dynastie HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMREIBCNABA====/2329-monarchies-dynasties-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2329|{catchup-id}",Monarchie a dynastie HD
+plugin://plugin.video.sweettv/playvid/2329|null
+#EXTINF:0 tvg-id="2330.id.com" tvg-name="Zlodeji strateného umenia HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNBEIBCNABA====/2330-raiders-of-the-lost-art-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2330|{catchup-id}",Zlodeji strateného umenia HD
+plugin://plugin.video.sweettv/playvid/2330|null
+#EXTINF:0 tvg-id="2328.id.com" tvg-name="Legendy opery HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMBEIBCNABA====/2328-legends-of-the-opera-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2328|{catchup-id}",Legendy opery HD
+plugin://plugin.video.sweettv/playvid/2328|null
+#EXTINF:0 tvg-id="2338.id.com" tvg-name="Svetové osobnosti HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCRBEIBCNABA====/2338-world-s-personalities-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2338|{catchup-id}",Svetové osobnosti HD
+plugin://plugin.video.sweettv/playvid/2338|null
+#EXTINF:0 tvg-id="2337.id.com" tvg-name="Mýty a monštrá HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCQREIBCNABA====/2337-myths-monsters-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2337|{catchup-id}",Mýty a monštrá HD
+plugin://plugin.video.sweettv/playvid/2337|null
+#EXTINF:0 tvg-id="3319.id.com" tvg-name="Cooking with Byron Talbott HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD3RSIBCNABA====/3319-cooking-with-byron-talbott-hd.png" group-title="TV zadarmo;Kuchárske;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3319|{catchup-id}",Cooking with Byron Talbott HD
+plugin://plugin.video.sweettv/playvid/3319|null
+#EXTINF:0 tvg-id="2659.id.com" tvg-name="Pure Nature HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDRRIIBCNABA====/2659-pure-nature-hd.png" group-title="Dokumentárne;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2659|{catchup-id}",Pure Nature HD
+plugin://plugin.video.sweettv/playvid/2659|null
+#EXTINF:0 tvg-id="849.id.com" tvg-name=":24 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIQMIBCNABA====/849-24-hd.png" group-title="Spravodajské;Národné;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/849|{catchup-id}",:24 HD
+plugin://plugin.video.sweettv/playvid/849|null
+#EXTINF:0 tvg-id="743.id.com" tvg-name="ČT1 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDTQKIBCNABA====/743-ct1-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/743|{catchup-id}",ČT1 HD
+plugin://plugin.video.sweettv/playvid/743|null
+#EXTINF:0 tvg-id="2396.id.com" tvg-name="ČT2 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDOBEIBCNABA====/2396-ct2-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2396|{catchup-id}",ČT2 HD
+plugin://plugin.video.sweettv/playvid/2396|null
+#EXTINF:0 tvg-id="1.id.com" tvg-name="Nova International HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BAASAITIAI======/1-nova-international-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1|{catchup-id}",Nova International HD
+plugin://plugin.video.sweettv/playvid/1|null
+#EXTINF:0 tvg-id="1364.id.com" tvg-name="TV Barrandov HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKAUIBCNABA====/1364-tv-barrandov-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1364|{catchup-id}",TV Barrandov HD
+plugin://plugin.video.sweettv/playvid/1364|null
+#EXTINF:0 tvg-id="749.id.com" tvg-name="Kino Barrandov HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDWQKIBCNABA====/749-kino-barrandov-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/749|{catchup-id}",Kino Barrandov HD
+plugin://plugin.video.sweettv/playvid/749|null
+#EXTINF:0 tvg-id="741.id.com" tvg-name="Barrandov Krimi HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDSQKIBCNABA====/741-barrandov-krimi-hd.png" group-title="Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/741|{catchup-id}",Barrandov Krimi HD
+plugin://plugin.video.sweettv/playvid/741|null
+#EXTINF:0 tvg-id="817.id.com" tvg-name="JOJ Šport HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYQMIBCNABA====/817-joj-sport-hd.png" group-title="Športové;HD kanály" ,JOJ Šport HD
+plugin://plugin.video.sweettv/playvid/817|null
+#EXTINF:0 tvg-id="2675.id.com" tvg-name="JOJ Šport 2 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZRIIBCNABA====/2675-joj-sport-2-hd.png" group-title="Športové;HD kanály" ,JOJ Šport 2 HD
+plugin://plugin.video.sweettv/playvid/2675|null
+#EXTINF:0 tvg-id="850.id.com" tvg-name=":Šport HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDJAMIBCNABA====/850-sport-hd.png" group-title="Športové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/850|{catchup-id}",:Šport HD
+plugin://plugin.video.sweettv/playvid/850|null
+#EXTINF:0 tvg-id="513.id.com" tvg-name="Nova Sport 1 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCAQIIBCNABA====/513-nova-sport-1-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/513|{catchup-id}",Nova Sport 1 HD
+plugin://plugin.video.sweettv/playvid/513|null
+#EXTINF:0 tvg-id="3.id.com" tvg-name="Nova Sport 2 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BABSAITIAI======/3-nova-sport-2-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3|{catchup-id}",Nova Sport 2 HD
+plugin://plugin.video.sweettv/playvid/3|null
+#EXTINF:0 tvg-id="1236.id.com" tvg-name="Eurosport 1 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKASIBCNABA====/1236-eurosport-1-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1236|{catchup-id}",Eurosport 1 HD
+plugin://plugin.video.sweettv/playvid/1236|null
+#EXTINF:0 tvg-id="1237.id.com" tvg-name="Eurosport 2 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKQSIBCNABA====/1237-eurosport-2-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1237|{catchup-id}",Eurosport 2 HD
+plugin://plugin.video.sweettv/playvid/1237|null
+#EXTINF:0 tvg-id="983.id.com" tvg-name="Sport 1 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDLQOIBCNABA====/983-sport-1-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/983|{catchup-id}",Sport 1 HD
+plugin://plugin.video.sweettv/playvid/983|null
+#EXTINF:0 tvg-id="984.id.com" tvg-name="Sport 2 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDMAOIBCNABA====/984-sport-2-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/984|{catchup-id}",Sport 2 HD
+plugin://plugin.video.sweettv/playvid/984|null
+#EXTINF:0 tvg-id="3098.id.com" tvg-name="Unbeaten Channel HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNBQIBCNABA====/3098-unbeaten-channel-hd.png" group-title="Športové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3098|{catchup-id}",Unbeaten Channel HD
+plugin://plugin.video.sweettv/playvid/3098|null
+#EXTINF:0 tvg-id="3009.id.com" tvg-name="Pravda o športe HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDAROIBCNABA====/3009-truth-about-sports-hd.png" group-title="Športové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3009|{catchup-id}",Pravda o športe HD
+plugin://plugin.video.sweettv/playvid/3009|null
+#EXTINF:0 tvg-id="3128.id.com" tvg-name="Športový rybolov HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4BQIBCNABA====/3128-sport-fishing-hd.png" group-title="Športové;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3128|{catchup-id}",Športový rybolov HD
+plugin://plugin.video.sweettv/playvid/3128|null
+#EXTINF:0 tvg-id="836.id.com" tvg-name="Auto Motor und Sport HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDCAMIBCNABA====/836-auto-motor-und-sport-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/836|{catchup-id}",Auto Motor und Sport HD
+plugin://plugin.video.sweettv/playvid/836|null
+#EXTINF:0 tvg-id="827.id.com" tvg-name="Body in Balance HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5QMIBCNABA====/827-body-in-balance-hd.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/827|{catchup-id}",Body in Balance HD
+plugin://plugin.video.sweettv/playvid/827|null
+#EXTINF:0 tvg-id="1918.id.com" tvg-name="Cars & Stars HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD7A4IBCNABA====/1918-cars-stars-hd.png" group-title="Športové;HD kanály" ,Cars & Stars HD
+plugin://plugin.video.sweettv/playvid/1918|null
+#EXTINF:0 tvg-id="1224.id.com" tvg-name="LALA TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDEASIBCNABA====/1224-lala-tv-hd.png" group-title="Dеtské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1224|{catchup-id}",LALA TV HD
+plugin://plugin.video.sweettv/playvid/1224|null
+#EXTINF:0 tvg-id="1348.id.com" tvg-name="Cartoon Network HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDCAUIBCNABA====/1348-cartoon-network-hd.png" group-title="Dеtské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1348|{catchup-id}",Cartoon Network HD
+plugin://plugin.video.sweettv/playvid/1348|null
+#EXTINF:0 tvg-id="1032.id.com" tvg-name="Disney Channel" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCEAQIBCNABA====/1032-disney-channel.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1032|{catchup-id}",Disney Channel
+plugin://plugin.video.sweettv/playvid/1032|null
+#EXTINF:0 tvg-id="800.id.com" tvg-name="Disney Junior" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCQAMIBCNABA====/800-disney-junior.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/800|{catchup-id}",Disney Junior
+plugin://plugin.video.sweettv/playvid/800|null
+#EXTINF:0 tvg-id="1238.id.com" tvg-name="Cartoonito HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDLASIBCNABA====/1238-cartoonito-hd.png" group-title="Dеtské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1238|{catchup-id}",Cartoonito HD
+plugin://plugin.video.sweettv/playvid/1238|null
+#EXTINF:0 tvg-id="1951.id.com" tvg-name="CARTOON TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCPQ6IBCNABA====/1951-cartoon-tv-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" ,CARTOON TV HD
+plugin://plugin.video.sweettv/playvid/1951|null
+#EXTINF:0 tvg-id="797.id.com" tvg-name="Baby TV" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCOQMIBCNABA====/797-baby-tv.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/797|{catchup-id}",Baby TV
+plugin://plugin.video.sweettv/playvid/797|null
+#EXTINF:0 tvg-id="1950.id.com" tvg-name="BABYFIRST HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCPA6IBCNABA====/1950-babyfirst-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" ,BABYFIRST HD
+plugin://plugin.video.sweettv/playvid/1950|null
+#EXTINF:0 tvg-id="981.id.com" tvg-name="JimJam" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKQOIBCNABA====/981-jimjam.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/981|{catchup-id}",JimJam
+plugin://plugin.video.sweettv/playvid/981|null
+#EXTINF:0 tvg-id="982.id.com" tvg-name="MiniMax" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDLAOIBCNABA====/982-minimax.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/982|{catchup-id}",MiniMax
+plugin://plugin.video.sweettv/playvid/982|null
+#EXTINF:0 tvg-id="3474.id.com" tvg-name="Family Entertainment TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCJBWIBCNABA====/3474-family-entertainment-tv-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3474|{catchup-id}",Family Entertainment TV HD
+plugin://plugin.video.sweettv/playvid/3474|null
+#EXTINF:0 tvg-id="3453.id.com" tvg-name="Blip TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD6RUIBCNABA====/3453-blip-tv-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3453|{catchup-id}",Blip TV HD
+plugin://plugin.video.sweettv/playvid/3453|null
+#EXTINF:0 tvg-id="3487.id.com" tvg-name="Magical Smile TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCPRWIBCNABA====/3487-magical-smile-tv-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3487|{catchup-id}",Magical Smile TV HD
+plugin://plugin.video.sweettv/playvid/3487|null
+#EXTINF:0 tvg-id="3339.id.com" tvg-name="English club HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCFRUIBCNABA====/3339-english-club.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3339|{catchup-id}",English club HD
+plugin://plugin.video.sweettv/playvid/3339|null
+#EXTINF:0 tvg-id="2105.id.com" tvg-name="Da Vinci: Objavujte svet HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4RAIBCNABA====/2105-da-vinci-explore-the-world-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2105|{catchup-id}",Da Vinci: Objavujte svet HD
+plugin://plugin.video.sweettv/playvid/2105|null
+#EXTINF:0 tvg-id="2114.id.com" tvg-name="Da Vinci: Operácia Ouch HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDBBAIBCNABA====/2114-da-vinci-operation-ouch-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2114|{catchup-id}",Da Vinci: Operácia Ouch HD
+plugin://plugin.video.sweettv/playvid/2114|null
+#EXTINF:0 tvg-id="2099.id.com" tvg-name="Da Vinci: Zábavné učenie HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCZRAIBCNABA====/2099-da-vinci-fun-learning-hd.png" group-title="Dеtské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2099|{catchup-id}",Da Vinci: Zábavné učenie HD
+plugin://plugin.video.sweettv/playvid/2099|null
+#EXTINF:0 tvg-id="1309.id.com" tvg-name="Nickelodeon" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCOQUIBCNABA====/1309-nickelodeon.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1309|{catchup-id}",Nickelodeon
+plugin://plugin.video.sweettv/playvid/1309|null
+#EXTINF:0 tvg-id="1310.id.com" tvg-name="Nick Junior" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCPAUIBCNABA====/1310-nick-junior.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1310|{catchup-id}",Nick Junior
+plugin://plugin.video.sweettv/playvid/1310|null
+#EXTINF:0 tvg-id="1311.id.com" tvg-name="NickToons" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCPQUIBCNABA====/1311-nicktoons.png" group-title="Dеtské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1311|{catchup-id}",NickToons
+plugin://plugin.video.sweettv/playvid/1311|null
+#EXTINF:0 tvg-id="2398.id.com" tvg-name="ČT :D HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDPBEIBCNABA====/2398-ct-d-hd.png" group-title="Dеtské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2398|{catchup-id}",ČT :D HD
+plugin://plugin.video.sweettv/playvid/2398|null
+#EXTINF:0 tvg-id="1299.id.com" tvg-name="Duck TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCJQUIBCNABA====/1299-duck-tv-hd.png" group-title="Dеtské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1299|{catchup-id}",Duck TV HD
+plugin://plugin.video.sweettv/playvid/1299|null
+#EXTINF:0 tvg-id="1602.id.com" tvg-name="JOJ Svet HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDBAYIBCNABA====/1602-joj-svet-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1602|{catchup-id}",JOJ Svet HD
+plugin://plugin.video.sweettv/playvid/1602|null
+#EXTINF:0 tvg-id="805.id.com" tvg-name="National Geographic HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCSQMIBCNABA====/805-national-geographic-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/805|{catchup-id}",National Geographic HD
+plugin://plugin.video.sweettv/playvid/805|null
+#EXTINF:0 tvg-id="804.id.com" tvg-name="National Geographic Wild HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCSAMIBCNABA====/804-national-geographic-wild-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/804|{catchup-id}",National Geographic Wild HD
+plugin://plugin.video.sweettv/playvid/804|null
+#EXTINF:0 tvg-id="1227.id.com" tvg-name="Animal Planet HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDFQSIBCNABA====/1227-animal-planet-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1227|{catchup-id}",Animal Planet HD
+plugin://plugin.video.sweettv/playvid/1227|null
+#EXTINF:0 tvg-id="1232.id.com" tvg-name="Discovery Channel HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIASIBCNABA====/1232-discovery-channel-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1232|{catchup-id}",Discovery Channel HD
+plugin://plugin.video.sweettv/playvid/1232|null
+#EXTINF:0 tvg-id="994.id.com" tvg-name="Spektrum HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDRAOIBCNABA====/994-spektrum-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/994|{catchup-id}",Spektrum HD
+plugin://plugin.video.sweettv/playvid/994|null
+#EXTINF:0 tvg-id="993.id.com" tvg-name="Spektrum Home HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDQQOIBCNABA====/993-spektrum-home-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/993|{catchup-id}",Spektrum Home HD
+plugin://plugin.video.sweettv/playvid/993|null
+#EXTINF:0 tvg-id="1233.id.com" tvg-name="TLC HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIQSIBCNABA====/1233-tlc-balkans-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1233|{catchup-id}",TLC HD
+plugin://plugin.video.sweettv/playvid/1233|null
+#EXTINF:0 tvg-id="1234.id.com" tvg-name="Investigation Discovery HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDJASIBCNABA====/1234-id-xtra-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1234|{catchup-id}",Investigation Discovery HD
+plugin://plugin.video.sweettv/playvid/1234|null
+#EXTINF:0 tvg-id="1230.id.com" tvg-name="Travel channel HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHASIBCNABA====/1230-travel-channel-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1230|{catchup-id}",Travel channel HD
+plugin://plugin.video.sweettv/playvid/1230|null
+#EXTINF:0 tvg-id="1235.id.com" tvg-name="HGTV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDJQSIBCNABA====/1235-hgtv.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1235|{catchup-id}",HGTV HD
+plugin://plugin.video.sweettv/playvid/1235|null
+#EXTINF:0 tvg-id="1231.id.com" tvg-name="Food Network HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHQSIBCNABA====/1231-food-network-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1231|{catchup-id}",Food Network HD
+plugin://plugin.video.sweettv/playvid/1231|null
+#EXTINF:0 tvg-id="975.id.com" tvg-name="Paprika TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHQOIBCNABA====/975-paprika-tv-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/975|{catchup-id}",Paprika TV HD
+plugin://plugin.video.sweettv/playvid/975|null
+#EXTINF:0 tvg-id="996.id.com" tvg-name="Viasat Explore HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDSAOIBCNABA====/996-viasat-explore-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/996|{catchup-id}",Viasat Explore HD
+plugin://plugin.video.sweettv/playvid/996|null
+#EXTINF:0 tvg-id="995.id.com" tvg-name="Viasat History HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDRQOIBCNABA====/995-viasat-history-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/995|{catchup-id}",Viasat History HD
+plugin://plugin.video.sweettv/playvid/995|null
+#EXTINF:0 tvg-id="997.id.com" tvg-name="Viasat Nature HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDSQOIBCNABA====/997-viasat-nature-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/997|{catchup-id}",Viasat Nature HD
+plugin://plugin.video.sweettv/playvid/997|null
+#EXTINF:0 tvg-id="872.id.com" tvg-name="History HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDUAMIBCNABA====/872-history-hd.png" group-title="Dokumentárne;HD kanály" ,History HD
+plugin://plugin.video.sweettv/playvid/872|null
+#EXTINF:0 tvg-id="2397.id.com" tvg-name="ČT art HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDOREIBCNABA====/2397-ct-art-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2397|{catchup-id}",ČT art HD
+plugin://plugin.video.sweettv/playvid/2397|null
+#EXTINF:0 tvg-id="1583.id.com" tvg-name="Park TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXQYIBCNABA====/1583-park-tv-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1583|{catchup-id}",Park TV HD
+plugin://plugin.video.sweettv/playvid/1583|null
+#EXTINF:0 tvg-id="1585.id.com" tvg-name="Skvele TV UHD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYQYIBCNABA====/1585-skvele-tv-uhd.png" group-title="Dokumentárne;Ultra HD;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1585|{catchup-id}",Skvele TV UHD
+plugin://plugin.video.sweettv/playvid/1585|null
+#EXTINF:0 tvg-id="1584.id.com" tvg-name="Skvele TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYAYIBCNABA====/1584-skvele-tv-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1584|{catchup-id}",Skvele TV HD
+plugin://plugin.video.sweettv/playvid/1584|null
+#EXTINF:0 tvg-id="820.id.com" tvg-name="CS History HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC2AMIBCNABA====/820-cs-history-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/820|{catchup-id}",CS History HD
+plugin://plugin.video.sweettv/playvid/820|null
+#EXTINF:0 tvg-id="959.id.com" tvg-name="Mňam HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC7QOIBCNABA====/959-mnam-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/959|{catchup-id}",Mňam HD
+plugin://plugin.video.sweettv/playvid/959|null
+#EXTINF:0 tvg-id="958.id.com" tvg-name="Mňau HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC7AOIBCNABA====/958-mnau-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/958|{catchup-id}",Mňau HD
+plugin://plugin.video.sweettv/playvid/958|null
+#EXTINF:0 tvg-id="960.id.com" tvg-name="Hobby TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDAAOIBCNABA====/960-hobby-tv-hd.png" group-title="Dokumentárne;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/960|{catchup-id}",Hobby TV HD
+plugin://plugin.video.sweettv/playvid/960|null
+#EXTINF:0 tvg-id="829.id.com" tvg-name="VOLANT.TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC6QMIBCNABA====/829-volant-tv.png" group-title="Športové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/829|{catchup-id}",VOLANT.TV HD
+plugin://plugin.video.sweettv/playvid/829|null
+#EXTINF:0 tvg-id="1793.id.com" tvg-name="TV Doktor HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCAQ4IBCNABA====/1793-tv-doctor-hd.png" group-title="Dokumentárne;HD kanály" ,TV Doktor HD
+plugin://plugin.video.sweettv/playvid/1793|null
+#EXTINF:0 tvg-id="998.id.com" tvg-name="AMC HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDTAOIBCNABA====/998-amc-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/998|{catchup-id}",AMC HD
+plugin://plugin.video.sweettv/playvid/998|null
+#EXTINF:0 tvg-id="807.id.com" tvg-name="AXN" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCTQMIBCNABA====/807-axn.png" group-title="Filmové" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/807|{catchup-id}",AXN
+plugin://plugin.video.sweettv/playvid/807|null
+#EXTINF:0 tvg-id="808.id.com" tvg-name="AXN Black" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCUAMIBCNABA====/808-axn-black.png" group-title="Filmové" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/808|{catchup-id}",AXN Black
+plugin://plugin.video.sweettv/playvid/808|null
+#EXTINF:0 tvg-id="809.id.com" tvg-name="AXN White" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCUQMIBCNABA====/809-axn-white.png" group-title="Filmové" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/809|{catchup-id}",AXN White
+plugin://plugin.video.sweettv/playvid/809|null
+#EXTINF:0 tvg-id="1000.id.com" tvg-name="Epic Drama HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDUAOIBCNABA====/1000-epic-drama-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1000|{catchup-id}",Epic Drama HD
+plugin://plugin.video.sweettv/playvid/1000|null
+#EXTINF:0 tvg-id="956.id.com" tvg-name="Film Europe HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC6AOIBCNABA====/956-film-europe-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/956|{catchup-id}",Film Europe HD
+plugin://plugin.video.sweettv/playvid/956|null
+#EXTINF:0 tvg-id="957.id.com" tvg-name="Film Europe+ HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC6QOIBCNABA====/957-film-europe-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/957|{catchup-id}",Film Europe+ HD
+plugin://plugin.video.sweettv/playvid/957|null
+#EXTINF:0 tvg-id="973.id.com" tvg-name="Film + HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDGQOIBCNABA====/973-film-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/973|{catchup-id}",Film + HD
+plugin://plugin.video.sweettv/playvid/973|null
+#EXTINF:0 tvg-id="819.id.com" tvg-name="CS Film HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCZQMIBCNABA====/819-cs-film-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/819|{catchup-id}",CS Film HD
+plugin://plugin.video.sweettv/playvid/819|null
+#EXTINF:0 tvg-id="845.id.com" tvg-name="CS Horror HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDGQMIBCNABA====/845-cs-horror-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/845|{catchup-id}",CS Horror HD
+plugin://plugin.video.sweettv/playvid/845|null
+#EXTINF:0 tvg-id="821.id.com" tvg-name="CS Mystery HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC2QMIBCNABA====/821-cs-mystery-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/821|{catchup-id}",CS Mystery HD
+plugin://plugin.video.sweettv/playvid/821|null
+#EXTINF:0 tvg-id="1535.id.com" tvg-name="E! Entertainment HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD7QWIBCNABA====/1535-e-entertainment-hd.png" group-title="Zábavné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1535|{catchup-id}",E! Entertainment HD
+plugin://plugin.video.sweettv/playvid/1535|null
+#EXTINF:0 tvg-id="1307.id.com" tvg-name="MTV" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNQUIBCNABA====/1307-mtv.png" group-title="Hudobné" ,MTV
+plugin://plugin.video.sweettv/playvid/1307|null
+#EXTINF:0 tvg-id="2302.id.com" tvg-name="Živá hudba z Londýna HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD7BCIBCNABA====/2302-london-live-music-hd.png" group-title="Hudobné;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2302|{catchup-id}",Živá hudba z Londýna HD
+plugin://plugin.video.sweettv/playvid/2302|null
+#EXTINF:0 tvg-id="1301.id.com" tvg-name="Club MTV" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCKQUIBCNABA====/1301-club-mtv.png" group-title="Hudobné" ,Club MTV
+plugin://plugin.video.sweettv/playvid/1301|null
+#EXTINF:0 tvg-id="1302.id.com" tvg-name="MTV Hits" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLAUIBCNABA====/1302-mtv-hits.png" group-title="Hudobné" ,MTV Hits
+plugin://plugin.video.sweettv/playvid/1302|null
+#EXTINF:0 tvg-id="2307.id.com" tvg-name="Živé popové koncerty v HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCBREIBCNABA====/2307-livepop-concerts-hd.png" group-title="Hudobné;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2307|{catchup-id}",Živé popové koncerty v HD
+plugin://plugin.video.sweettv/playvid/2307|null
+#EXTINF:0 tvg-id="1303.id.com" tvg-name="MTV Live HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLQUIBCNABA====/1303-mtv-live-hd.png" group-title="Hudobné;HD kanály" ,MTV Live HD
+plugin://plugin.video.sweettv/playvid/1303|null
+#EXTINF:0 tvg-id="1304.id.com" tvg-name="MTV80s" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMAUIBCNABA====/1304-mtv80s.png" group-title="Hudobné" ,MTV80s
+plugin://plugin.video.sweettv/playvid/1304|null
+#EXTINF:0 tvg-id="1305.id.com" tvg-name="MTV90s" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMQUIBCNABA====/1305-mtv90s.png" group-title="Hudobné" ,MTV90s
+plugin://plugin.video.sweettv/playvid/1305|null
+#EXTINF:0 tvg-id="1306.id.com" tvg-name="MTV 00s" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNAUIBCNABA====/1306-mtv-00s.png" group-title="Hudobné" ,MTV 00s
+plugin://plugin.video.sweettv/playvid/1306|null
+#EXTINF:0 tvg-id="840.id.com" tvg-name="Ocko HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDEAMIBCNABA====/840-ocko-hd.png" group-title="Hudobné;HD kanály" ,Ocko HD
+plugin://plugin.video.sweettv/playvid/840|null
+#EXTINF:0 tvg-id="841.id.com" tvg-name="Ocko Star HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDEQMIBCNABA====/841-ocko-star-hd.png" group-title="Hudobné;HD kanály" ,Ocko Star HD
+plugin://plugin.video.sweettv/playvid/841|null
+#EXTINF:0 tvg-id="839.id.com" tvg-name="Ocko Expres HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDDQMIBCNABA====/839-ocko-expres-hd.png" group-title="Hudobné;HD kanály" ,Ocko Expres HD
+plugin://plugin.video.sweettv/playvid/839|null
+#EXTINF:0 tvg-id="838.id.com" tvg-name="Ocko Black HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDDAMIBCNABA====/838-ocko-black-hd.png" group-title="Hudobné;HD kanály" ,Ocko Black HD
+plugin://plugin.video.sweettv/playvid/838|null
+#EXTINF:0 tvg-id="1900.id.com" tvg-name="Šláger Muzika HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDWA4IBCNABA====/1900-slager-muzika-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1900|{catchup-id}",Šláger Muzika HD
+plugin://plugin.video.sweettv/playvid/1900|null
+#EXTINF:0 tvg-id="1901.id.com" tvg-name="Šláger Originál HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDWQ4IBCNABA====/1901-slager-original-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1901|{catchup-id}",Šláger Originál HD
+plugin://plugin.video.sweettv/playvid/1901|null
+#EXTINF:0 tvg-id="1902.id.com" tvg-name="Šláger Premium HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDXA4IBCNABA====/1902-slager-premium-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1902|{catchup-id}",Šláger Premium HD
+plugin://plugin.video.sweettv/playvid/1902|null
+#EXTINF:0 tvg-id="1903.id.com" tvg-name="IConcerts HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDXQ4IBCNABA====/1903-iconcerts-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1903|{catchup-id}",IConcerts HD
+plugin://plugin.video.sweettv/playvid/1903|null
+#EXTINF:0 tvg-id="1904.id.com" tvg-name="Mezzo HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDYA4IBCNABA====/1904-mezzo-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1904|{catchup-id}",Mezzo HD
+plugin://plugin.video.sweettv/playvid/1904|null
+#EXTINF:0 tvg-id="2141.id.com" tvg-name="TV Folklorika HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDORAIBCNABA====/2141-tv-folklorika-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2141|{catchup-id}",TV Folklorika HD
+plugin://plugin.video.sweettv/playvid/2141|null
+#EXTINF:0 tvg-id="875.id.com" tvg-name="Senzi HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDVQMIBCNABA====/875-senzi-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/875|{catchup-id}",Senzi HD
+plugin://plugin.video.sweettv/playvid/875|null
+#EXTINF:0 tvg-id="1907.id.com" tvg-name="Deluxe Music" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZQ4IBCNABA====/1907-deluxe-music.png" group-title="Hudobné" ,Deluxe Music
+plugin://plugin.video.sweettv/playvid/1907|null
+#EXTINF:0 tvg-id="1930.id.com" tvg-name="M1 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCFA6IBCNABA====/1930-m1-hd.png" group-title="Maďarské kanály" ,M1 HD
+plugin://plugin.video.sweettv/playvid/1930|null
+#EXTINF:0 tvg-id="1931.id.com" tvg-name="M2 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCFQ6IBCNABA====/1931-m2-hd.png" group-title="Maďarské kanály" ,M2 HD
+plugin://plugin.video.sweettv/playvid/1931|null
+#EXTINF:0 tvg-id="1932.id.com" tvg-name="M5 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCGA6IBCNABA====/1932-m5-hd.png" group-title="Maďarské kanály" ,M5 HD
+plugin://plugin.video.sweettv/playvid/1932|null
+#EXTINF:0 tvg-id="1933.id.com" tvg-name="DUNA TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCGQ6IBCNABA====/1933-duna-tv-hd.png" group-title="Maďarské kanály" ,DUNA TV HD
+plugin://plugin.video.sweettv/playvid/1933|null
+#EXTINF:0 tvg-id="1934.id.com" tvg-name="DUNA WORLD HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCHA6IBCNABA====/1934-duna-world-hd.png" group-title="Maďarské kanály" ,DUNA WORLD HD
+plugin://plugin.video.sweettv/playvid/1934|null
+#EXTINF:0 tvg-id="1935.id.com" tvg-name="RTL HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCHQ6IBCNABA====/1935-rtl-hd.png" group-title="Maďarské kanály" ,RTL HD
+plugin://plugin.video.sweettv/playvid/1935|null
+#EXTINF:0 tvg-id="1940.id.com" tvg-name="RTL KETTŐ HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCKA6IBCNABA====/1940-rtl-ketto-hd.png" group-title="Maďarské kanály" ,RTL KETTŐ HD
+plugin://plugin.video.sweettv/playvid/1940|null
+#EXTINF:0 tvg-id="1936.id.com" tvg-name="RTL Otthon HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCIA6IBCNABA====/1936-rtl-otthon-hd.png" group-title="Maďarské kanály" ,RTL Otthon HD
+plugin://plugin.video.sweettv/playvid/1936|null
+#EXTINF:0 tvg-id="1937.id.com" tvg-name="Cool TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCIQ6IBCNABA====/1937-cool-tv-hd.png" group-title="Maďarské kanály" ,Cool TV HD
+plugin://plugin.video.sweettv/playvid/1937|null
+#EXTINF:0 tvg-id="1938.id.com" tvg-name="Muzsika TV" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCJA6IBCNABA====/1938-muzsika-tv.png" group-title="Maďarské kanály" ,Muzsika TV
+plugin://plugin.video.sweettv/playvid/1938|null
+#EXTINF:0 tvg-id="1939.id.com" tvg-name="Sorozat+" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCJQ6IBCNABA====/1939-sorozat.png" group-title="Maďarské kanály" ,Sorozat+
+plugin://plugin.video.sweettv/playvid/1939|null
+#EXTINF:0 tvg-id="812.id.com" tvg-name="TV4 HU" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCWAMIBCNABA====/812-tv4-hu.png" group-title="Maďarské kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/812|{catchup-id}",TV4 HU
+plugin://plugin.video.sweettv/playvid/812|null
+#EXTINF:0 tvg-id="811.id.com" tvg-name="STORY4" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCVQMIBCNABA====/811-story4.png" group-title="Maďarské kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/811|{catchup-id}",STORY4
+plugin://plugin.video.sweettv/playvid/811|null
+#EXTINF:0 tvg-id="742.id.com" tvg-name="CNN Prima News HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDTAKIBCNABA====/742-cnn-prima-news-hd.png" group-title="Spravodajské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/742|{catchup-id}",CNN Prima News HD
+plugin://plugin.video.sweettv/playvid/742|null
+#EXTINF:0 tvg-id="1528.id.com" tvg-name="ČT24 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD4AWIBCNABA====/1528-ct24-hd.png" group-title="Spravodajské;Národné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1528|{catchup-id}",ČT24 HD
+plugin://plugin.video.sweettv/playvid/1528|null
+#EXTINF:0 tvg-id="1563.id.com" tvg-name="A11 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNQYIBCNABA====/1563-a11-hd.png" group-title="Spravodajské;HD kanály" ,A11 HD
+plugin://plugin.video.sweettv/playvid/1563|null
+#EXTINF:0 tvg-id="1905.id.com" tvg-name="Euronews HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDYQ4IBCNABA====/1905-euronews-hd.png" group-title="Spravodajské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1905|{catchup-id}",Euronews HD
+plugin://plugin.video.sweettv/playvid/1905|null
+#EXTINF:0 tvg-id="1906.id.com" tvg-name="BBC News HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZA4IBCNABA====/1906-bbc-news-hd.png" group-title="Spravodajské" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1906|{catchup-id}",BBC News HD
+plugin://plugin.video.sweettv/playvid/1906|null
+#EXTINF:0 tvg-id="1323.id.com" tvg-name="CNN international HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCVQUIBCNABA====/1323-cnn-international-hd.png" group-title="Spravodajské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1323|{catchup-id}",CNN international HD
+plugin://plugin.video.sweettv/playvid/1323|null
+#EXTINF:0 tvg-id="1909.id.com" tvg-name="Current Time HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD2Q4IBCNABA====/1909-current-time-hd.png" group-title="Spravodajské;HD kanály" ,Current Time HD
+plugin://plugin.video.sweettv/playvid/1909|null
+#EXTINF:0 tvg-id="3406.id.com" tvg-name="France 24 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHBUIBCNABA====/3406-france-24-hd.png" group-title="Spravodajské;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/3406|{catchup-id}",France 24 HD
+plugin://plugin.video.sweettv/playvid/3406|null
+#EXTINF:0 tvg-id="1360.id.com" tvg-name="France 24 English HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIAUIBCNABA====/1360-france-24-english-hd.png" group-title="Spravodajské;HD kanály" ,France 24 English HD
+plugin://plugin.video.sweettv/playvid/1360|null
+#EXTINF:0 tvg-id="1361.id.com" tvg-name="France 24 Arabic HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIQUIBCNABA====/1361-france-24-arabic-hd.png" group-title="Spravodajské;HD kanály" ,France 24 Arabic HD
+plugin://plugin.video.sweettv/playvid/1361|null
+#EXTINF:0 tvg-id="1910.id.com" tvg-name="TRT World HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD3A4IBCNABA====/1910-trt-world-hd.png" group-title="Spravodajské;HD kanály" ,TRT World HD
+plugin://plugin.video.sweettv/playvid/1910|null
+#EXTINF:0 tvg-id="1908.id.com" tvg-name="TVP World HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD2A4IBCNABA====/1908-tvp-world-hd.png" group-title="Spravodajské;HD kanály" ,TVP World HD
+plugin://plugin.video.sweettv/playvid/1908|null
+#EXTINF:0 tvg-id="2459.id.com" tvg-name="TV OSEM HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNRGIBCNABA====/2459-tv-osem-hd.png" group-title="Ostatné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2459|{catchup-id}",TV OSEM HD
+plugin://plugin.video.sweettv/playvid/2459|null
+#EXTINF:0 tvg-id="1800.id.com" tvg-name="Lux TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCEA4IBCNABA====/1800-lux-tv-hd.png" group-title="Náboženské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1800|{catchup-id}",Lux TV HD
+plugin://plugin.video.sweettv/playvid/1800|null
+#EXTINF:0 tvg-id="1801.id.com" tvg-name="TV Noe HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCEQ4IBCNABA====/1801-tv-noe-hd.png" group-title="Náboženské;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1801|{catchup-id}",TV Noe HD
+plugin://plugin.video.sweettv/playvid/1801|null
+#EXTINF:0 tvg-id="1917.id.com" tvg-name="FREEDОМ HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD6Q4IBCNABA====/1917-freedom-hd.png" group-title="Ostatné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1917|{catchup-id}",FREEDОМ HD
+plugin://plugin.video.sweettv/playvid/1917|null
+#EXTINF:0 tvg-id="1911.id.com" tvg-name="Espreso TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD3Q4IBCNABA====/1911-espreso-tv-hd.png" group-title="Ostatné;HD kanály" ,Espreso TV HD
+plugin://plugin.video.sweettv/playvid/1911|null
+#EXTINF:0 tvg-id="2350.id.com" tvg-name="ABC TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXBEIBCNABA====/2350-abc-tv-hd.png" group-title="HD kanály" ,ABC TV HD
+plugin://plugin.video.sweettv/playvid/2350|null
+#EXTINF:0 tvg-id="1913.id.com" tvg-name="Aquarium 4K" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD4Q4IBCNABA====/1913-aquarium-4k.png" group-title="Ultra HD;HD kanály" ,Aquarium 4K
+plugin://plugin.video.sweettv/playvid/1913|null
+#EXTINF:0 tvg-id="1914.id.com" tvg-name="Fireplace 4K" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD5A4IBCNABA====/1914-fireplace-4k.png" group-title="Ultra HD;HD kanály" ,Fireplace 4K
+plugin://plugin.video.sweettv/playvid/1914|null
+#EXTINF:0 tvg-id="892.id.com" tvg-name="Extasy 4K" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD6AMIBCNABA====/892-extazy-4k.png" group-title="18+;Ultra HD" ,Extasy 4K
+plugin://plugin.video.sweettv/playvid/892|null
+#EXTINF:0 tvg-id="1098.id.com" tvg-name="Blue Hustler" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDFAQIBCNABA====/1098-blue-hustler.png" group-title="18+" ,Blue Hustler
+plugin://plugin.video.sweettv/playvid/1098|null
+#EXTINF:0 tvg-id="796.id.com" tvg-name="BabesTV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCOAMIBCNABA====/796-babestv-hd.png" group-title="18+" ,BabesTV HD
+plugin://plugin.video.sweettv/playvid/796|null
+#EXTINF:0 tvg-id="1915.id.com" tvg-name="PureBabes TV HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD5Q4IBCNABA====/1915-purebabes-tv-hd.png" group-title="18+" ,PureBabes TV HD
+plugin://plugin.video.sweettv/playvid/1915|null
+#EXTINF:0 tvg-id="1916.id.com" tvg-name="Brazzers HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD6A4IBCNABA====/1916-brazzers-hd.png" group-title="18+" ,Brazzers HD
+plugin://plugin.video.sweettv/playvid/1916|null
