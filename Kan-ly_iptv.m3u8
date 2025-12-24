@@ -407,23 +407,23 @@ http://212.102.38.45/live/test_axn/playlist.m3u8
 http://212.102.38.45/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDUAOIBC/1000-epic-drama-hd.png" group-title="TV",Epic Drama
 http://142.202.51.5:11500/674e4d8808aa33918f3c852f1b30d9e1/index.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:-1  tvg-logo="" group-title="TV",Canal+ action
+#EXTINF:-1  tvg-logo="" group-title="TV",CANAL+ Action
 http://142.132.205.242:8080/CA/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/hbohd.png?raw=true" group-title="TV",HBO HD
+#EXTINF:0 tvg-id="847.id.com" tvg-name="HBO HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/hbohd.png?raw=true" group-title="TV",HBO HD
 http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo2hd.png?raw=true" group-title="TV",HBO 2 HD
+#EXTINF:0 tvg-id="847.id.com" tvg-name="HBO HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo2hd.png?raw=true" group-title="TV",HBO 2 HD
 http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo3hd.png?raw=true" group-title="TV",HBO 3 HD
+#EXTINF:0 tvg-id="a4ba4cdb8d6a99e565fa5470f99a1949" tvg-name="HBO3 HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo3hd.png?raw=true" group-title="TV",HBO 3 HD  group-title="Filmové;HD kanály",HBO3 HD
 http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/cinemaxhd.png?raw=true" group-title="TV",Cinemax HD
 http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/cinemax2hd.png?raw=true" group-title="TV",Cinemax 2 HD
 http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/filmboxhd.png?raw=true" group-title="TV",Filmbox
+#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/filmboxhd.png?raw=true" group-title="TV",Filmbox HD
 http://212.102.38.45/live/test_filmbox/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/filmboxextrahd.png?raw=true" group-title="TV",Filmbox Extra HD
 http://212.102.38.45/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/filmboxpremiumhd.png?raw=true" group-title="TV",Filmbox Premium
+#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/filmboxpremiumhd.png?raw=true" group-title="TV",Filmbox Premium HD
 http://212.102.38.45/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/filmboxfamily.png?raw=true" group-title="TV",Filmbox Family
 http://212.102.38.45/live/test_filmbox_family_atk_1200/playlist.m3u8
@@ -453,7 +453,7 @@ http://212.102.38.45/live/test_spektrum/playlist.m3u8
 http://212.102.38.45/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/nationalgeographic.png?raw=true" group-title="TV",National Geographic
 http://212.102.38.45/live/test_ngc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/nationalgeographicwildhdcz.png?raw=true" group-title="TV",Nat Geo WILD
+#EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/nationalgeographicwildhdcz.png?raw=true" group-title="TV",National Geographic Wild HD CZ
 http://212.102.38.45/live/test_ngw/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDFQSIBC/1227-animal-planet-hd.png" group-title="TV",Animal Planet
 http://212.102.38.45/live/test_animal_planet_hd_hevc/playlist.m3u8
@@ -505,11 +505,11 @@ http://142.202.51.5:11500/sadcdsoirewfcsaldkwjetze984656e5/video.m3u8?token=8cd4
 http://142.132.205.242:8080/NS5/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:-1  tvg-logo="http://cloudia.cms.nova.cz/r100xn/c741fb40-cc35-4a51-8429-961768b49100" group-title="TV",NOVA SPORT 6
 http://142.132.205.242:8080/NS6/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:-1  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ SPORT
+#EXTINF:-1  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ Sport (SK)
 http://142.132.205.242:8080/CNLS1/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:-1  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ SPORT 2
+#EXTINF:-1  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ Sport 2 (SK)
 http://142.132.205.242:8080/CNLS2/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:-1  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ SPORT 3
+#EXTINF:-1  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ Sport 3 (SK)
 http://142.132.205.242:8080/CNLS3/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:-1  tvg-logo="" group-title="TV",Now HK Now Sports 4K
 http://109.169.15.33:8080/catena-11-339-streamer-now_hk_now_sports_4k/video.m3u8?token=8cd42917778958ac401318dd4968d644
