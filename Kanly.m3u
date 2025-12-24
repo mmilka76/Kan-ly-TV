@@ -1,0 +1,265 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="7a55634018be710a62bbf1750443a199" tvg-name="Jednotka HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBC/847-jednotka-hd.png" group-title="TV",Jednotka HD
+http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:0 tvg-id="584c86a108172efc9c27af06eb3d4652" tvg-name="Dvojka HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIAMIBC/848-dvojka-hd.png" group-title="TV",Dvojka HD
+http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:0 tvg-id="6a5461ba82cabcb95db5b344e6440e15" tvg-name="RTVS 24 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDIQMIBC/849-24-hd.png" group-title="TV",RTVS 24 HD
+http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
+#EXTINF:0 tvg-id="336e46bf4276e77a716e494c6285d5db" tvg-name="Markiza HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png" group-title="TV",Markiza HD
+http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
+#EXTINF:0 tvg-id="aa3d3d3842d31ad8771ae3c0b9c36b93" tvg-name="Markiza Krimi HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4QOIBC/953-markiza-krimi-hd.png" group-title="TV",Markiza Krimi HD
+http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="3bfc51074799dc287b11188784cad123" tvg-name="Markiza Klasik" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCUBAIBC/2088-markiza-klasik-hd.png" group-title="TV",Markiza Klasik
+http://212.102.38.45/live/markiza_klasik_hevc/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5AOIBC/954-doma-hd.png" group-title="TV",Doma
+http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5QOIBC/955-dajto-hd.png" group-title="TV",DajTO
+http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
+#EXTINF:0 tvg-id="84a2364ade7443e6d6afe03f9aa2361a" tvg-name="TV JOJ HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBC/814-joj-hd.png" group-title="TV",TV JOJ HD
+http://212.102.38.45/live/test_joj_25p/playlist.m3u8
+#EXTINF:0 tvg-id="d214870d446a92f77571e873cfb90083" tvg-name="JOJ Cinema HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCWQMIBC/813-joj-cinema-hd.png" group-title="TV",JOJ Cinema HD
+http://212.102.38.45/live/test_joj_cinema_25p/playlist.m3u8
+#EXTINF:0 tvg-id="2aa59e1b0cb34399f6ffc387e52a437b" tvg-name="JOJ PLUS HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYAMIBC/816-joj-plus-hd.png" group-title="TV",JOJ PLUS HD
+http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDBAYIBC/1602-joj-svet-hd.png" group-title="TV",JOJ Svet
+http://212.102.38.45/live/test_joj_svet/playlist.m3u8
+#EXTINF:0 tvg-id="d4bf459e0c7e39dff6a5dbf3c7c76432" tvg-name="WAU HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCZAMIBC/818-wau-hd.png" group-title="TV",WAU HD
+http://212.102.38.45/live/test_wau_25p/playlist.m3u8
+#EXTINF:0 tvg-id="76ec128b489da6c0e8b34681cba69914" tvg-name="TA3 HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD3AKIBC/758-ta3-hd.png" group-title="TV",TA3 HD
+http://212.102.38.45/live/test_ta3_25p/playlist.m3u8
+ #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDTQKIBC/743-ct1-hd.png" group-title="TV",CT1
+http://212.102.38.45/live/test_ct1_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name=""tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDOBEIBC/2396-ct2-hd.png" group-title="TV",CT2
+http://212.102.38.45/live/test_ct2_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZQKIBC/755-prima-plus-hd.png" group-title="TV",Prima HD
+http://212.102.38.45/live/prima_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDPQMIBC/863-prima-cool-hd.png" group-title="TV",Prima COOL
+http://212.102.38.45/live/prima_cool_cz_hevc/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDRAMIBC/866-prima-krimi-hd.png" group-title="TV",Prima KRIMI
+http://212.102.38.45/live/test_prima_krimi_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDQAMIBC/864-prima-love-sk-hd.png" group-title="TV",Prima LOVE
+http://212.102.38.45/live/test_prima_love_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDQQMIBC/865-prima-max-hd.png" group-title="TV",Prima MAX
+http://142.202.51.5:11500/4d6e5753d4935340689a648087a3edf7/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-show020.png" group-title="TV",Prima Show
+http://212.102.38.45/live/prima_show_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-star020.png" group-title="TV",Prima Star
+http://212.102.38.45/live/prima_star_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-zoom020.png" group-title="TV",Prima ZOOM
+http://212.102.38.45/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF:0 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-3020.png" group-title="TV",Nova HD
+http://212.102.38.45/live/nova_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/novacinemahd.png?raw=true" group-title="TV",Nova Cinema HD
+http://212.102.38.45/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/novaactionhd.png?raw=true" group-title="TV",Nova Action HD
+http://212.102.38.45/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/novafunhd.png?raw=true" group-title="TV",Nova Fun HD
+http://212.102.38.45/live/nova_fun_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/novagoldt2.png?raw=true" group-title="TV",Nova Krimi HD
+http://212.102.38.45/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/novaladyhd.png?raw=true" group-title="TV",Nova Lady HD
+http://212.102.38.45/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="TV",Paramount Network
+http://142.202.51.5:11500/5f3fa7082be33121f1ff383082300eef/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXRYIBC/3631-magical-christmas-hd.png" tvg-chno="" group-title="Filmové",Magical Christmas HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9ocnByd2JncXEzOWc1dXI0dnljdmV1OTl5dmhkdTN6dGk1aW1qZHRlc2prbWNwZXNnN3g1aXFtYmJ2djJrY2oydmNncGs5dTVkOHY2c3R1dXI2cmQ1bmRzMjd6am4yd2JjbXJnanBqdWo1dTR3eGlzd204ZmJ0aHl2aDQ5ZnZ2d3hhd3Z1dXg4ZWE3ZHZobm0yOWRoejZkZnpqeHgzcHM5emV4bWk2cmd3YTN0dDh1YmF0cGY2eWZpd2FpeWIzancyNHdoOD09PQ==&u=14799306804625281580&session=7127077338446063691&variant=2&c=3631&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCSROIBC/2981-top-movies-hd.png" tvg-chno="" group-title="Filmové",Najlepsie filmy HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS8yN2NwNXhienJ2YWd1Y2R3Z21qcDR4cGg2M2lodjh3dnYzcXloczVmOGJ1ZTdkdDg5Mnc5NHFuZ3dpcnZwdDd4d2l1OXBuNHJ6ZWV6cjdmNHNjNjJ2Nmluazk1NGhtbWV2cGtxOXh3eXdocGo5ZXRkanB2cTd1bXNpcXZlaWNhNGV0bXA0N21kanlyc21tZHh6YXlmdnpxcnBwZnloeGQ5NTJ3YmMybXU1cjM5c215ZzVoM2ZlNDJldnB4Zmp2a25xazRzPT09PQ==&u=14799306804625281580&session=8214678353446726815&variant=2&c=2981&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLA6IBC/2006-action-zone-hd.png" tvg-chno="" group-title="Filmové",Akcna zona HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9zcmF5anZjd2c1bjI1OWJzdzNrczdzMmoyNGZmNnN0cTc4cGJ2N2E1MmF0ZHZxdjlmcG1zd3Y0eWduYWpoN3h6c2plaTdiZ3B1M203cjV0YXUycTJ3cHoycWo4NHQ0NGNzY2VyeHdxaHJmOHc0aXJ5OW5xd2ttODhlcGUzdnozZmtheDNoemVuNGp2N3hhejh3eHpqZDhrbWlhdmV2d2VybjhoM2o2cTJrZjZ4ZHZtcHB2NDlieGdncnZ0NnQ0a3o0bjNnOD09PQ==&u=14799306804625281580&session=8075303518807675189&variant=2&c=2006&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD7RWIBC/3583-worldwide-hits-hd.png" tvg-chno="" group-title="Filmové",Svetove hity HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9oY3dpNzhybmI0ZXhjeHU3azk5OTd3Mmp6bXlxbnFpbmVqbjJreTNmcDgzemZ6Nmd2dnlhMzRxYmQ1OTlyeXRzN2JmZ3NzdjdlY2NyN3J1ZXUzd2dwZXhwcjdidWQzZ3ZwdmdteDNmaW04dzN0cnp1eDZicWprN2JtemJyZWZ2aHdlODRkbWV1cHFnNG1tcGd1OG1qd3U1emt1OWkzZXNnNWt2MmVuN2d3M20yeXlyejd4bW12YzR5eTNkcWY0MzU0czlzPT09PQ==&u=14799306804625281580&session=12821468143746713100&variant=2&c=3583&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCLBWIBC/3478-adrenaline-rush-hd.png" tvg-chno="" group-title="Filmové",Adrenalinovy naval HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9hZGFpbnA1ODhmOHkyY3NzemJoNTJ0Ymd2am04bmp2ajljYnd0aXdnNm1lMmVjczc2YnM4cXhzcWhtMms5enV2cnBpOTRlNGt0aHVycW5lbnhlc2J0bmVnNTV5anJ1d21hNWk1dzg5cWsyeWRkY2Y3Nmo0aHJkZDY5YzhpeXNqM2lkMzVrNHBjZ202ejU5YTJuNTdjZHJuejh2ZnVzM3V6ZW55NXJ3a2N0bmlubnNxZXVmMjk0eTY3ZTI1enRzeDh5Y2NoaHQyPQ==&u=14799306804625281580&session=11055061190728463769&variant=2&c=3478&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD5BWIBC/3578-adventure-caleidoscope-hd.png" tvg-chno="" group-title="Filmové",Dobrodruzny kaleidoskop HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS84MnVmZGVxcGdqY3M2eTlmOGVnZ2N5N2Q5OHBtZ2R6NmlyeHU3cXp0NmRudHVpeGNwZnJjeHd2Z3FyYnhka3Iyc2pkbWVzMnVldHhlZ3JoOTM0cGRlYng1czR1MjQ0Zmg5NXA0bWE1aHpzOHhlZXc3OXdzaHRncmVhN3I2bnY3ZzRrMmJreHoydWp4MzRjeXM1cXdnanhpeWZicWFlbWg1a2hyajZnbXpzaDZleGF2OW1jYWJicXJieno0YWVocGYyNmlzPT09PQ==&u=14799306804625281580&session=16351429133316633415&variant=2&c=3578&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCKRWIBC/3477-suspense-hd.png" tvg-chno="" group-title="Filmové",Napate chvile HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9pNTczaGRqazlnaXZqcGs1cmhxOXNkMmU0NWpxdW51cGlnNWRiN3NyaWg3eDVnOGt4eGNzenZxMjQybTNremNtY3ViZnFmanpwaDhkOWI5bWJ0cmY3czY0N2RtZjZjOGtramtwMnp3d241NWZ1djkzbXB3Y3dxODhpZmttamQybTRkZTZldW5nOTdkMzZrYnFrY3VqNzJoZmdtZ2Roc2NuOXprMjZiY3V5M3lodzRoZDU1YTkydDQ4dzZ0NjU4cWR2YjN2cjNzPQ==&u=14799306804625281580&session=17269449378747236313&variant=2&c=3477&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCMBWIBC/3480-comedy-picks-hd.png" tvg-chno="" group-title="Filmové",Komedialne hity HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9kc2duNTg2dzVzYmVqeGhidGR3ZGJ1bjRpZHlmZjluY3djZDRlNGhjNGFrYWl2ZmM5bmJwNmthdWVnN3ZjdXhmZXp1eG1jbWRkenJkcXo2dWllZDhucmt0anQyZjR0dmY4NXphcnZ5cTZrN25xa3U0bXRpeDhiOWY0NzM3NWZ1d25jeHNmcGh4Z2hwcXlrdnJqbW1mYmp4amUyMmZxdHNndWdkczZ6OTl1YnFqa25kejRzc2E1YTZoOXM2aHQ3NnJoOWJiOGJpPQ==&u=14799306804625281580&session=15461426148128983895&variant=2&c=3480&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDNBUIBC/3418-movie-caleidoscope-hd.png" tvg-chno="" group-title="Filmové",Filmovy kaleidoskop HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS94ZjV6ODk1eHV4YXFjd2UzeXF5NnRmNjU2aWpxNXJjdjVzam02a3I2NXNrbjl2ZWNiZjV3YXI2bWh5cDdoZmR0eTcyMnV2dmp2eHA5dzJoc3ZqdGloYms2bTdiZjYyaXd4YmJlOHd5cnl1ZjVwM2h2bjdzamdhYnRuZmdtM3U5Y3Rnc3pnYXE1dzhwcHYyNTdkZmUyNWYyeGEzOGpmY2NncWtrYXFleW1kZWUzOTlpM3d4NWF3M2R5OXVrbm04dXAydm1udT09PQ==&u=14799306804625281580&session=9623600844610975220&variant=2&c=3418&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDMQ6IBC/2009-thriller-time-hd.png" tvg-chno="" group-title="Filmové",Cas na thriller HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9nYThkYnZhODkyeW41Y3gycGVuajg0bWVqNGVzdGY2Y2Z1M2h2aXh4aXp6Z3QyYmRncHkydzJ4cmt1d3JybThrZGt3eXVzZTJuODgzOW5lNjZ2N2Vnd3c3bXR5ZHE1Y241MmpicmRjeXdnbjNuN2JmaHlmd3l5d3UyeHQ5ZzcyM2Y3a2V1djNmdXNrcWVuZWpkcHhleHc5cWJwOWplenRlNHJrcmVld3JjbjhkcHlpcmIyaW5lczlpZWluN3RxeGFyYnNhbj09PQ==&u=14799306804625281580&session=10934654982270913869&variant=2&c=2009&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDKQ6IBC/2005-family-fun-hd.png" tvg-chno="" group-title="Filmové",Rodinna zabava HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS84aXJzcmFzc2hlZ3l1ejhya3U1OTRlMmpwbmQ1a3R1bmI0amtlZmZqOTN0c2N2cjZhODk1Mmc0bjIzMmE1MzVmcXRuc3RzdnJubXQ2NjVhdm1tYW5icGdkZmNoZ2pkN3pzNXZxZHptbW02NTNweThpNGFubmp4eWgyMzRhZTJuZmZkMmVta2NzaWR1Zmt6am1meDJlcWRweGhnNjZ5azQ0dnBoZTZpeDU5dmVhdHpmczNiMnBhYTd3eG1kbjNobmI0ZXZjeT09PQ==&u=14799306804625281580&session=8905924820866649094&variant=2&c=2005&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLQ6IBC/2007-comedy-universe-hd.png" tvg-chno="" group-title="Filmové",Komedialny vesmir HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9rY2lwcnZhcm5qaHNiMmN3Ynd0Yjh0eHJrbW51bmU4aXJmbWR4emdweHczZXdwZndpNmFxZWNjaTNydHRxeXU1Nnh3YTNmZGRqdzk1d2RkdXpzazR4YXd4Y2Vrcjl0dXV6OGZ3NHp6YWI5ZXczcmt1anU0ZHprN3d3amVjazR0OGpnaWFmcmdma3RrYWtydHlkbWRldWh2enBiNnMyYnVjNnpuaDJjazd4MmVhYnpoajNnNnBmN2htd3ozdDJ6emo0cTVrMj09PQ==&u=14799306804625281580&session=9813493954945906185&variant=2&c=2007&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCHRWIBC/3471-dramatic-nights-hd.png" tvg-chno="" group-title="Filmové",Dramaticke noci HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS83eWJmeDVoYXF3Y3l1ZW5qaG40bTd3YWR0NTlmcGRqNjdxemdpYnRtN21neTZndWM0YXBpbmFtN3hwOGpobXd2cGl4bnU0OHFoY2EyangzeThnNDgyYnh6aW1tdGtobngzc3NoYmdyZ21jZ3o4NXZ1bmFrYmRxeWd6NmZpdmd5emhhNGlmNzVpNmpwc2E5Y2FnanliYWRuMjR0M2Fjc3RhbjI1aHZmNXR5bjRpaGp4anFleHo4dHpmejR6bXp3dXM3a2N6YzVzPQ==&u=14799306804625281580&session=3399926953814566594&variant=2&c=3471&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDMA6IBC/2008-real-drama-hd.png" tvg-chno="" group-title="Filmové",Skutocna drama HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9lNmduYXh1OXM4dm42eGFzanh6NWU5Z3pnZzJobmczM2E1M21xcHVjam02ZXRjdDNzOWlxMnc4dXV5MjZ3dmc0NHB2cWFpY3F2bTZ1c254bmt1ZGM0dHltd3EyNGlxZDRkbWp5N2Y3cGJtMjR3djZmeXd6NXhmN2UyNTYyNTJuZnFwdGY4cXZoNGNocGR2anNlczhzYTh2NW05Y2J1anA1d2g4aWVyY3ZneHc1YW5ydWoyYnZmM21iazM2amlnazY5Nj09PT09PQ==&u=14799306804625281580&session=14078697916943379871&variant=2&c=2008&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCLRWIBC/3479-horror-land-hd.png" tvg-chno="" group-title="Filmové",Strasidelny svet HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9rcGg0cmNtczc0dXVoazdobTNneHBycXhnYTU2bWJ1Z3RraTQ5a2piZmE0eHVkZ2NkdzUyeTY5a2d5MmNnMnNpN2JjNGNldHhjdmR1aGFjMjRiMnRzdjV2cXRucXA1dzdjc3Y2N2RoYWl0eWg3NnR3YXltdHZ1enFucXRreHViOHZ0ZWVrN2txYWt3cm1uOTJoOGRhcTYyamM3cHA2bTNyanBleGd6bXk0and3NGpiY3h2ZjZuZ2VpemhkM2VyeHVzdXd1dWtpPQ==&u=14799306804625281580&session=8182877938503449269&variant=2&c=3479&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0 tvg-id="c9f6da8961cf54a0845ef8fcdb48244d" tvg-name="AXN CZ" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCTQMIBC/807-axn.png" group-title="TV",AXN CZ
+http://212.102.38.45/live/test_axn/playlist.m3u8
+#EXTINF:0 tvg-id="72edb20d435c8baafda462f427edb723" tvg-name="AMC SK" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDTAOIBC/998-amc-hd.png" group-title="TV",AMC SK
+http://212.102.38.45/live/test_amc_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDUAOIBC/1000-epic-drama-hd.png" group-title="TV",Epic Drama
+http://142.202.51.5:11500/674e4d8808aa33918f3c852f1b30d9e1/index.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0 tvg-id="c27ae0d760a6c999ab212f93c764ae4e" tvg-name="CANAL+ Action" tvg-logo="https://www.skylink.sk/doc/um_kanal_img/canal-action-972.png" group-title="TV",CANAL+ Action
+http://142.132.205.242:8080/CA/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/hbohd.png?raw=true" group-title="TV",HBO HD
+http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo2hd.png?raw=true" group-title="TV",HBO 2 HD
+http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo3hd.png?raw=true" group-title="TV",HBO 3 HD
+http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/cinemaxhd.png?raw=true" group-title="TV",Cinemax HD
+http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/cinemax2hd.png?raw=true" group-title="TV",Cinemax 2 HD
+http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="cbd5c7f941b30aa5ebe03004c9570e71" tvg-name="Filmbox HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/filmboxhd.png?raw=true" group-title="TV",Filmbox HD
+http://212.102.38.45/live/test_filmbox/playlist.m3u8
+#EXTINF:0 tvg-id="c67c693cb75eeb49fcaf7b9bb215bc30" tvg-name="Filmbox Extra HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/filmboxextrahd.png?raw=true" group-title="TV",Filmbox Extra HD
+http://212.102.38.45/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="c3f5686e3ee054e815be2b2d62e573d4" tvg-name="Filmbox Premium HD" tvg-logo="https://www.skylink.sk/doc/um_kanal_img/logo_fb_premium_b-703.png" group-title="TV",Filmbox Premium HD
+http://212.102.38.45/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="6055855c5c76d0e2895c0c6eac31dd59" tvg-name="Filmbox Family" tvg-logo="https://www.skylink.sk/doc/um_kanal_img/filmbox-family_logo_web-734.png" group-title="TV",Filmbox Family
+http://212.102.38.45/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:0 tvg-id="ad99a65b8a018d45a26debf94c20bc1f" tvg-name="Filmbox Stars" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/filmboxstars.png?raw=true" group-title="TV",Filmbox Stars
+http://212.102.38.45/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:0 tvg-id="db26b425bb37b5fdb3445bb589a92c81" tvg-name="Film+ SK" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDGQOIBC/973-film-hd.png" group-title="TV",Film+ SK
+http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:0 tvg-id="e3690b8f5892f1e960df1a54902cc848" tvg-name="CS Film" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/csfilmhd.png?raw=true" group-title="TV",CS Film
+http://212.102.38.45/live/test_cs_film_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/cshistoryhd.png?raw=true" group-title="TV",CS History
+http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/csmystery.png?raw=true" group-title="TV",CS Mystery
+http://212.102.38.45/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/historyhd.png?raw=true" group-title="TV",History
+http://212.102.38.45/live/test_history/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/history2.png?raw=true" group-title="TV",History 2
+http://212.102.38.45/live/test_h2/playlist.m3u8
+#EXTINF:0  tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4RSIBC/3257-the-world-inside-out-hd.png" tvg-chno="" group-title="Dokumentárne",Svet naruby HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9icmF0aXNsYXZhLmZhc3RhZC5wcm8vc3RyZWFtL3JjbmdlcXM0Y2F3dnp5aDh6bXM3NnF6MnpjM2lrMzZpNXpwc3p3aTMzcmR6aHdqZTNuZXo0dHFnc2t0bmFhbXRyMmR6YXhqeWRmcjI1NXVjYmVncnVkdnhpZDk5cjZlZ3l3a3hrNXVjY2tmdGVxbWNpdjZzNmI4ZHY4ZHgzNzVuOGhkbTRwcmNiM2J0MnRiMzJnZGFuNmN1MnVxcDJzYmk5c2NoY2ttM3AzbnZianM9&u=16985740068234892230&session=17078565557429153150&variant=2&c=3257&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0  tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4BGIBC/2488-travel-adventures-hd.png" tvg-chno="" group-title="Dokumentárne",Cestovanie a dobrodruzstvo HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9icmF0aXNsYXZhLmZhc3RhZC5wcm8vc3RyZWFtLzZrcXlpeDdxd3ppNXczODhwbWNkZ2RrYTNoM2U0YWZmYjZyeTk2ZTJlcTltcmtnaTdieng4YXc5MmR2ZnU2NXduaHVndGViZ3Z0cWF3NW1xeWpyNTd1Mnc0dThnOWk4cXdzOHV1c3M2Znl1d3p2dHdjcjY3YTd3bTR4aDI4aTdxN3d0MzNxNHM5ZmJhZ244NnI4cnNoaGo5eGJpc3ljYms5emRybWI3dm52OGVuPT09&u=16985740068234892230&session=9279462035857867602&variant=2&c=2488&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0  tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDRRIIBC/2659-pure-nature-hd.png" tvg-chno="" group-title="Dokumentárne",Pure Nature HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9icmF0aXNsYXZhMTEuZmFzdGFkLnByby9zdHJlYW0vYWJkZnhoM2RzdGlkNmRrdzdmaHlma3RyajNibXFhNThucHNhNzN0OHZwajU3NGV5bmFjOHk5N3NtdmU2cnA2cnJ3bXJtZ2Y2YnM4bmZhN3R3amsyN2NtZTZlaHRpd2Uzd3V4bjJtNnUzeWhndmtlNnFoZDhldjl1Y3Z2bXF2Y3M0aW53ZGE3bXp5Z3c1OWZmaGU0eGd1OTR4MmludnA5OXo4dXZlcWh4cXdwenU1cz0=&u=16985740068234892230&session=2084352290130012892&variant=2&c=2659&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/discoverycz.png?raw=true" group-title="TV",Discovery
+http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/investigationdiscovery.png?raw=true" group-title="TV",ID Discovery
+http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/crimeandinvestigation.png?raw=true" group-title="TV",Crime and Investigation
+http://212.102.38.45/live/test_cai_hevc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://tv.digigo.sk/images/logos/viasat-explore-hd.png" group-title="TV",Viasat Explore
+http://88.150.230.35:8080/0de1c5e5a8f8de7395321539706ee102eccbc87e4b5ce2fe28308fd9f2a7baf3/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://tv.digigo.sk/images/logos/viasat-nature-hd.png" group-title="TV",Viasat Nature
+http://88.150.230.35:8080/1552d324af1fa9871321ba50c6edeceec4ca4238a0b923820dcc509a6f75849b/index.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://tv.digigo.sk/images/logos/viasat-history-hd.png" group-title="TV",Viasat History
+http://142.202.51.5:11500/70a8479548233bb60bcb5ef9bd592b0d/mpegts?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/spektrumhd.png?raw=true" group-title="TV",Spektrum
+http://212.102.38.45/live/test_spektrum/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/spektrumhome.png?raw=true" group-title="TV",Spektrum Home
+http://212.102.38.45/live/test_home_hevc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/nationalgeographic.png?raw=true" group-title="TV",National Geographic
+http://212.102.38.45/live/test_ngc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/nationalgeographicwildhdcz.png?raw=true" group-title="TV",Nat Geo WILD
+http://212.102.38.45/live/test_ngw/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDFQSIBC/1227-animal-planet-hd.png" group-title="TV",Animal Planet
+http://212.102.38.45/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://www.4ka.sk/media-files/filer_public/43/5f/435fcd86-62f0-4200-9dd0-7eda4108e84f/love_nature.png" group-title="TV",Love Nature
+http://212.102.38.45/live/test_lovenature/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/tlc.png?raw=true" group-title="TV",TLC
+http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/fashiontv.png?raw=true" group-title="TV",Fashion TV
+http://212.102.38.45/live/test_fashion_hevc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/fishingandhunting.png?raw=true" group-title="TV",Fishinghunting
+http://212.102.38.45/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDBAMIBC/834-arena-sport0-hd.png" group-title="TV",Arena Sport 1
+http://212.102.38.45/live/test_arenasport/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDBQMIBC/835-arena-sport-2-hd.png" group-title="TV",Arena Sport 2
+http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDLQOIBC/983-sport0-hd.png" group-title="TV",Sport 1
+http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDMAOIBC/984-sport-2-hd.png" group-title="TV",Sport 2
+http://212.102.38.45/live/test_sport_2/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDJAMIBC/850-sport.png" group-title="TV",RTVS Sport
+http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/ctsporthd.png?raw=true" group-title="TV",CT Sport HD
+http://212.102.38.45/live/test_ct_sport_hevc_25p/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYQMIBC/817-joj-sport-hd.png" group-title="TV",JOJ Sport
+http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZRIIBC/2675-joj-sport-2-hd.png" group-title="TV",JOJ Sport 2
+http://212.102.38.45/live/joj_sport_2_avc/index.m3u8
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/4902ba16-21c5-4dd0-bbb7-72018f06a323" group-title="TV",Oneplay Sport 1
+http://142.202.51.5:11500/ba666fbedc44910a80f2ff3c7624b9c73a/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/44c708d8-4a8d-4a36-92b8-bcac72d6b02a" group-title="TV",Oneplay Sport 2
+http://142.202.51.5:11500/2ca013cd44b712fbc117aae555a935f5a/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d24465fd-a58b-4f1e-8f4d-a4d40c74e2bc" group-title="TV",Oneplay Sport 3
+http://142.202.51.5:11500/f1f54bbfdcc13c7524b3b5c6b5d59eaee/mpegts?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/5b8c2b9d-a104-4142-a789-5ba814d7518d" group-title="TV",Premier Sport 1
+http://142.202.51.5:11500/4b80b837634f6ec4e18ff6808a8104f2/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/4f55909f-0e63-4b52-bf77-96d3ec7b45c4" group-title="TV",Premier Sport 2
+http://142.202.51.5:11500/1566fbedc44910a80f2ff3c7624b9c73/video.m3u8?token=eb62c1b821052fb792d6184179368f4b
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/ebbca372-e895-4f0f-883f-97d32ce208c6" group-title="TV",Premier Sport 3
+http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=eb62c1b821052fb792d6184179368f4b
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/181c10b7-8ee1-4da9-a46a0c3d5ba77b9a" group-title="TV",NOVA SPORT 1
+http://142.202.51.5:11500/5461792934/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/2397c1b4-bff6-4286-bef8-717826dd6c0f" group-title="TV",NOVA SPORT 2
+http://142.202.51.5:11500/5461792935/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/b6ceab4b-b0d9-4e40-8f06-f05ebf41f080" group-title="TV",NOVA SPORT 3
+http://142.202.51.5:11500/189fbvgherne65wq89z8uvsztzt24w8t/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/605ec7e3-0779-4eac-9a4b03fb5e9dce6f" group-title="TV",NOVA SPORT 4
+http://142.202.51.5:11500/sadcdsoirewfcsaldkwjetze984656e5/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/ab2b0cf2-7a11-4222-973f-69d8cc717658" group-title="TV",NOVA SPORT 5
+http://142.132.205.242:8080/NS5/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/c741fb40-cc35-4a51-8429-961768b49100" group-title="TV",NOVA SPORT 6
+http://142.132.205.242:8080/NS6/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ SPORT
+http://142.132.205.242:8080/CNLS1/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ SPORT 2
+http://142.132.205.242:8080/CNLS2/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://cloudia.cms.nova.cz/r100xn/d0d7d8f5-d1a4-4213-b7b2-60a03cdeaf0b" group-title="TV",CANAL+ SPORT 3
+http://142.132.205.242:8080/CNLS3/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 4K
+http://109.169.15.33:8080/catena01-339-streamer-now_hk_now_sports_4k/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 1
+http://109.169.15.33:8080/catena01-332-streamer-now_hk_now_sports_1/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 2
+http://109.169.15.33:8080/catena01-333-streamer-now_hk_now_sports_2/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 3
+http://109.169.15.33:8080/catena01020-streamer-now_hk_sports_3/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 4
+http://109.169.15.33:8080/catena01-334-streamer-now_hk_now_sports_4/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 5
+http://109.169.15.33:8080/catena01-335-streamer-now_hk_now_sports_5/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 6
+http://109.169.15.33:8080/catena01-336-streamer-now_hk_now_sports_6/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Now Sports 7
+http://109.169.15.33:8080/catena01-337-streamer-now_hk_now_sports_7/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="" group-title="TV",Now HK Premier Sports 1
+http://109.169.15.33:8080/catena01011-streamer-now_hk_premier_sports_1/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/automotorsporthd.png?raw=true" group-title="TV",Auto Motor und Sport Channel
+http://212.102.38.45/live/test_ams/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDORAIBC/2141-tv-folklorika-hd.png" group-title="TV",Folklorika HD
+http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLAUIBC/1302-mtv-hits.png" group-title="TV",MTV Hits
+http://212.102.38.45/live/test_mtv_hits_1200_atk/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCKQUIBC/1301-club-mtv.png" group-title="TV",Club MTV
+http://212.102.38.45/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMQUIBC/1305-mtv90s.png" group-title="TV",MTV 90s
+http://212.102.38.45/live/test_mtv_rocks_1200_atk/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMAUIBC/1304-mtv80s.png" group-title="TV",MTV 80s
+http://212.102.38.45/live/test_vh_1_classic_1200_atk/playlist.m3u8
+#EXTINF:0   tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCSRYIBC/3621-undersea-adventures-hd.png" tvg-chno="" group-title="Dеtské",Podmorske dobrodruzstva HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9qc2RyMmpzNHVkYTg4YmdqOGNzaXI4eGdjcnVxY2l1MnV2Yms0Z2E2bWJhMnp3a2NlZWZybW5udnc5NnQ3emF3YXJxOXMyeTJ2YnI1aHkyaXczcjVhcGJkN3FtcThucXpudTR4czhyNTNnY252aHlxcTc1bmVjZ3lueWl2N2Zham1qMnJwNHFkdTQ1Y3B2cDh0aXVqNGdxZWE1a2V4dGpqcDRrenAzZmNzaXVnNHdhPQ==&u=16985740068234892230&session=17326608550368735427&variant=2&c=3621&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0   tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDDRUIBC/3399-smurfs-hd.png" tvg-chno="" group-title="Dеtské",Smolkovia HD
+https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9xOGZ4Z3p6ZTM2eGs4enQ3dGVmeXlzYWF1N2dxZDhpbjJiYmp2YXpyZjJqOTc2OGU3NnVzc25neWhja2N0NXhhZjlmcGc4a2ZwNGptbmZhYW50bmk1Z3dnZmU0ZGZxZTlhbm1yaGZwd3NuNHo2Yjk3dmY5cWZmN2hrY2U0NmhzOHN4aXQzemh0NzZ4YnBiYzczMnkyajd0dWE0eThzY3B3NDJ3cnJnN3N3aWZpZGV0Mg==&u=16985740068234892230&session=5215691997114733796&variant=2&c=3399&dt=2&p=15&e=0&aid=&sp=0
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXQMIBC/815-jojko-hd.png" group-title="TV",Jojko
+http://212.102.38.45/live/test_jojko_25p/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/rik.png?raw=true" group-title="TV",RiK TV
+http://212.102.38.45/live/test_rik/playlist.m3u8
+#EXTINF:0  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/disneychannel.png?raw=true" group-title="TV",Disney Channel
+http://212.102.38.45/live/test_disney/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCQAMIBC/800-disney-junior.png" group-title="TV",Disney Junior
+http://212.102.38.45/live/test_disney_junior/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDLAOIBC/982-minimax.png" group-title="TV",Minimax
+http://212.102.38.45/live/test_minimax/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKQOIBC/981-jimjam.png" group-title="TV",JimJam
+http://212.102.38.45/live/test_jim_jam/playlist.m3u8
+#EXTINF:0  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDEASIBC/1224-lala-tv-hd.png" group-title="TV",LALA TV
+http://212.102.38.45/live/test_lala_25p/playlist.m3u8
+
+
