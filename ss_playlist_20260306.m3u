@@ -193,11 +193,11 @@ http://88.212.15.17:80/live/test_folklorika_atktv/playlist.m3u8
 http://88.212.15.17:80/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1483", Stingray iConcerts
 http://88.212.15.17:80/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:0 type="stream" channelId="27", MUSICBOX
+#EXTINF:0 type="stream" channelId="27", MUSIC bOX
 http://88.212.15.17:80/live/mb_classic/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://musicboxdance.com/music_box_dance_logo.png" background="https://musicboxdance.com/music_box_dance_logo.png", music box dance
+#EXTINF:0 type="stream" channelId="-1" logo="https://musicboxdance.com/music_box_dance_logo.png" background="https://musicboxdance.com/music_box_dance_logo.png", Music box dance
 http://88.212.15.17:80/live/mb_dance/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://musicboxhits.com/music_box_hits_logo.png" background="https://musicboxhits.com/music_box_hits_logo.png", music box hits
+#EXTINF:0 type="stream" channelId="-1" logo="https://musicboxhits.com/music_box_hits_logo.png" background="https://musicboxhits.com/music_box_hits_logo.png", Music box hits
 http://88.212.15.17:80/live/mb_hits/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXQMIBC/815-jojko-hd.png", Jojko
 http://88.212.15.17:80/live/test_jojko_25p/playlist.m3u8
@@ -213,5 +213,6 @@ http://88.212.15.17:80/live/test_minimax/playlist.m3u8
 http://88.212.15.17:80/live/test_jim_jam/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDEASIBC/1224-lala-tv-hd.png", LALA TV
 http://88.212.15.17:80/live/test_lala_25p/playlist.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Thriller", 10x10 (2018)
+#EXTINF:0 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Thriller", 10x10 (2018)
 http://88.198.41.143:8080/VOD/10x1020181080pBluRaySKdabing.mp4/index.m3u8?token=f0325723dc8907045ce1c836eae1da30
+
