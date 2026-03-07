@@ -213,3 +213,5 @@ http://88.212.15.17:80/live/test_minimax/playlist.m3u8
 http://88.212.15.17:80/live/test_jim_jam/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDEASIBC/1224-lala-tv-hd.png", LALA TV
 http://88.212.15.17:80/live/test_lala_25p/playlist.m3u8
+#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Thriller", 10x10 (2018)
+http://88.198.41.143:8080/VOD/10x1020181080pBluRaySKdabing.mp4/index.m3u8?token=f0325723dc8907045ce1c836eae1da30
