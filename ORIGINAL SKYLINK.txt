@@ -63,29 +63,29 @@ http://stream2.torba.fun/f7qhbLIOdM/mpegts?token=A1NjjunXksljkjbK
 http://stream2.torba.fun/D4PLUCaIUd/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="c1d6e9c0ebd2a5d12fc7ed1f009f6d9a" tvg-name="Nova Fun HD" channel-id="361" tvg-logo="https://picons.cmshulk.com/picons/novafunhd.png" group-title=""  catchup="vod" catchup-source="default",Nova Fun HD
 http://stream2.torba.fun/zYix9cKjpF/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="d34f7d48d519d17bd97011282d186fef" tvg-name="Nova Krimi" channel-id="360" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/nova%20krimi.png" group-title=""  catchup="vod" catchup-source="default",Nova Krimi
+#EXTINF:0 tvg-id="d34f7d48d519d17bd97011282d186fef" tvg-name="Nova Krimi" channel-id="360" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Nova Krimi
 http://stream2.torba.fun/GwK8cYwoJZ/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="24999820b35f1bac625b591c6da1879b" tvg-name="Nova Action HD" channel-id="359" tvg-logo="https://picons.cmshulk.com/picons/novaactionhd.png" group-title=""  catchup="vod" catchup-source="default",Nova Action HD
 http://stream2.torba.fun/hfa6mQDx0h/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Nova Cinema HD
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/novacinema.png" group-title=""  catchup="vod" catchup-source="default",Nova Cinema HD
 http://stream2.torba.fun/eV1HUx60Iw/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Nova International
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/novainternationalhd.png" group-title=""  catchup="vod" catchup-source="default",Nova International
 http://stream2.torba.fun/SI3e9HwiSZ/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",NovaLady
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/novalady.png" group-title=""  catchup="vod" catchup-source="default",NovaLady
 http://stream2.torba.fun/SuKZxcZwSf/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Crime&amp;Investigation
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/crimeinvestigationnetwork.png" group-title=""  catchup="vod" catchup-source="default",Crime&Investigation
 http://stream2.torba.fun/MXVbhDVHt8/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Prima HD
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/primahd.png" group-title=""  catchup="vod" catchup-source="default",Prima HD
 http://stream2.torba.fun/5TWFaJexV2/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Prima COOL HD
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/primacoolhd.png" group-title=""  catchup="vod" catchup-source="default",Prima COOL HD
 http://stream2.torba.fun/ntQBuIDZw0/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Prima Krimi HD
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/paramount.png" group-title=""  catchup="vod" catchup-source="default",Paramount channel
 http://stream2.torba.fun/n5gcqYd1d1/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Prima Krimi
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/primakrimi.png" group-title=""  catchup="vod" catchup-source="default",Prima Krimi
 http://stream2.torba.fun/zqs4zTIX1J/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Prima MAX HD
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/primamaxhd.png" group-title=""  catchup="vod" catchup-source="default",Prima MAX HD
 http://stream2.torba.fun/l8QFu8Vo4Y/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Prima Love HD
+#EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="https://picons.cmshulk.com/picons/primalovehd.png" group-title=""  catchup="vod" catchup-source="default",Prima Love HD
 http://stream2.torba.fun/7QDgBr4BFX/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",Prima Comedy Central
 http://stream2.torba.fun/OjRaVSVM4c/mpegts?token=A1NjjunXksljkjbK
@@ -285,37 +285,7 @@ http://stream2.torba.fun/uU54UcLqGF/mpegts?token=A1NjjunXksljkjbK
 http://stream2.torba.fun/6QrCVW0r6X/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",DOCUBOX
 http://stream2.torba.fun/XHr46HblpF/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Strážcovia Galaxie 3 (2023)
-http://vodc-sk-bts-six.fastad.pro/dhls/39438/6vEMpbChxmFgo_OgCYpLTesA7_ZvyII3G9zKIFJoyWdSDIyIr0zoCv7Mi1fl79RFNJMUjsE8KVbuuPtlituaTA/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Avatar:  Cesta vody (2022)
-http://vodc-sk-bts-six.fastad.pro/dhls/24763/hcL9loRH_3CMwheN1rfoq7KjSoFHV3yKyy7CiQ6UFHz_Ligex0_GC_pnqMw_06fYSxE3NJ2vFmns52R7Q0ubrA/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Assassin's Creed (2016)
-http://vodc-sk-bts-six.fastad.pro/dhls/19647/rJ5_OakqiI1w-dA0YTv7YGPbq8WsqjGJkSvlUWEjKjdL9rk4zjCy05jK2yl6_Yg-ysrMB-k1CvUF_xNio-jAfQ/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Pompeje (2014)
-http://vodc-sk-bts-six.fastad.pro/dhls/26497/2qN09QXmGKbKDkWt5t05_oo7DJENjHeKA44-qi9ta-GKwjs7wtq5vuUimZQ0jDiIa6Ibn8VYyoRUSEn3XvmHZw/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] John Wick (2014)
-http://vodc-sk-bts-six.fastad.pro/dhls/25548/U278PXQVg-CWAbmCV59GJJA0vpXfxQmtQrSpETFQxDJjLKD1KKh89Z9AJ2YUPnxYRYjsiYLyv8gtijxpcYrx_A/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Need for Speed (2014)
-http://vodc-sk-bts-six.fastad.pro/dhls/26006/1QRgg3WgCjfOUx-iAS34bFrPZIT2s9ELfa3SxpV3x1TA5wImkWeSwyoNppEBH6cpWAEsgIMc9sbjBaxq-BLR8g/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Enderova hra (2013)
-http://vodc-sk-bts-six.fastad.pro/dhls/25536/mZtmokpRoMjOKSF7bSKalMhbFsFzNM7bNYoaqrk34Zg4GbhROkWdk4iTXByghIbq9ilo1Q78X4AmR9qCKOIVxg/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Narnia:  Lev, šatník a čarodejnica (2005)
-http://vodc-sk-bts-six.fastad.pro/dhls/20002/UVdQG1v2YpZmKhRsx48hLZPd3n1pixYSQ7JmeCLLTBVfPH4zQYrwNFQdeMGQg6B490dBrCAFfjUwjuP1-Zmmmg/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Votrelec (1979)
-http://vodc-stu-six-bts.fastad.pro/dhls/18060/LUBuCARaVAtOBCqoM_lNXeKbUK1t4XrYqG-GwSLMTmHy0mOEOcA2uNaKuQGxH4QEoA7iNgp1quKpSlWdvxqwqg/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Votrelci (1986)
-http://vodc-stu-six-bts.fastad.pro/dhls/19634/pkVgeRwtGKs9RexDnPWNYlCq_lKB085Jbcnw3eNIlfT-1SVFNKgj8SmJ_IFykHP1qtUsrbV1Qqh5IjZWeZGVbA/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Votrelec³ (1992)
-http://vodc-sk-bts-six.fastad.pro/dhls/19632/_nlgsAshuZuMbC59ou2GJU7JQGJtttLDJims47k0NKexhLmrxBMb8EP_nQDlU4xWXfeIAfvHQdMvMb5mrX05tQ/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Votrelec Covenant (2017)
-http://vodc-stu-six-bts.fastad.pro/dhls/30839/FXN6FQzUNgrlFrib6ntsCUwAYbttKzYZ3Tu5XywZP779CH2DTAexOy4rssM4MWINyh2o37m1XHmTNpWWXlEwzA/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] X-Men 2 (2003)
-http://vodc-stu-six-bts.fastad.pro/dhls/31051/6LORwHTWmkkZ03-CIHAZVznhbDS_pmnA3wjv5tq0JqQyjHvTxhSTFeLp8Ffh3eZtgxd4Sbz1CYPQGiOIHPbjzQ/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Predátor (1987)
-http://vodc-stu-six-bts.fastad.pro/dhls/31082/Kq_4yMEtqduTi-5tR-yRdQe7OXCJOh6ANAJC1gOyzVmk9SvxW25xQO8R-zy8S60EiJUl4WbI4KOwdirGT-YX/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Barbar Conan (1982)
-http://vodc-stu-six-bts.fastad.pro/dhls/18715/nvIWhM_Tq22sM1iRH1rzuq_3nAjTtF5IHCeITJZngNipeVsz7K5GFFwTVZgZFkiyYocVvF-kpAlvKSsXpnr0Xg/master.m3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Film] Rambo: Do pekla a naspäť
+#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ej0JFeY6Fyzcef3N1UA5ZmWgdEn.jpg" group-title="Akčný",[Film] Rambo: Do pekla a naspäť (2008)
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cDovL3RzMWNtMi1zay1idHMtc2l4LmZhc3RhZC5wcm8vZHZyZmFzdGFkcy84MzYvMTcyNTAxL2E1MDliODdjNWUxZjZkMjcvNndtOGhhdjN6eWptcnF2OThmdHQ5eHB6cm1lYWZiZ2tjenR0ZXVkYWY4eWM2eXVhZmQ1Y3V5Njh4Zzl2dmF2eHV4cWRxZmR0Z2c5c3B2dmp4M2ZzMnVlenAyY21hNGN1Nm1qZWU1aDh3OXpxOGpxeGVnOGtqNmd2eWR5aXB5eGRyeTVkNHg1NWhyNnMyNmp4OTl5d2Q3ZWN3ODN6N2l6ZWFwcmR5N21jdG15MmhkODYzM2dhPT09PS9tYXN0ZXIubTN1OA==&u=8111618206403704783&session=18170335586593989979&variant=2&c=3583&dt=1&p=15&e=891234344&aid=d3d12165-0d05-4867-9cc6-0b57bb2f134a&spm3u8
-#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="" group-title="",[Stredovek] Statečné srdce
-https://prehrajto.cz/statecne-srdce-1995-uhdrdv-cz-en/68abfda1e98d7?do=download
+#EXTINF:-1 media="playlist" tvg-id="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/A5MP1guV8pbruieG0tnpPIbaJtt.jpg" group-title="Animovaný",[Film] Rango (2011)
+https://stitch-eu.fastad.pro/catchup/main.m3u8?c=3787&consent=CQdWToAQdWToAAHABBENCLFsAP_gAEPgAAAAL3tR_G__bWlr-bb3aftkeYxP9_hr7sQxBgbJk24FzLvW7JwXx2E5NAzatqIKmRIAu3TBIQNlHJDURVCgKIgFryDMaEyUoTNKJ6BkiFMZI2NYCFxvm4tjWQCY4vr99lc1mB-N7dr82dzyy6hHn3a5_2S1UJCdIYetDfv8ZBKT-9IEd_x8v4v4_F7pE2-eS1n_pGvp4j9-YnM_dBmxt-TSff7Pn__rl_e7X_vc_n37v94XH77v_-__f_-7___2b_-4L2AAmGhUQRlkQIBAoGEECABQVhABQIAgAASBogIATBgU5AwAXWEyAEAKAAYIAQAAgwABAAAJAAhEAFABAIAQIBAoAAwAIAgIACBgADABYiAQAAgOgYpgQQCBYAJGZVBpgSgAJBAS2VCCUDAgrhCEWeAQQIiYKAAAEgAoCAAB4LAQkkBKxIIAuIJoAACAAAKIESBFIWYAgqDNFoCwJOAyNMAwfMEySnQZIEwQkJJsQm9CYeKQogQQ5AbFLMAdPEFAAAAA.f_wACHwAAAAA&dt=2&e=901333081&o=aHR0cHM6Ly90czNjbTItc3R1LXNpeC1idHMuc3RyZWFteS5ncm91cC9kdnJmYXN0YWRzLzEyMDQvMTc3MTU0LzU4ODE2MDc4Mzk4NGM1M2QvZHg0aWZrNnRpYXF4dWZ3cmFwenk2bnA5dmFhaDJjdHo4dG5rNHVmYzZ0ZzU2aDg3M2NkY2p0OXY5cW1zcTQ0MjdmaWJ4aXo0ZmFzYjQ4M3J6N2o1dWF2ZGk5YW5hd3BqNjh4Nmp0ZXB0Y2JoOWpqYjJ2dnBoZml4MjN6cnFkd2ZuM3RqYmk5bXdrcms5aG1lNzZwdHdydnF5NmhuMnplajQ3bWNxM2Y3c2Jzajlxa2R3OXU4YT09PS9tYXN0ZXIubTN1OA%3D%3D&p=15&sid=6355392893024082211&u=15479336499611499494&t=t
