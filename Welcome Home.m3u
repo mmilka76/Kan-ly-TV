@@ -21,8 +21,8 @@ http://stream2.torba.fun/yRJxzOgb7V/mpegts?token=A1NjjunXksljkjbK
 http://stream2.torba.fun/MBckXmDNYD/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",RETRO FILM HD
 http://stream2.torba.fun/1Uvn1dHQwd/mpegts?token=A1NjjunXksljkjbK
-#EXTINF:0 tvg-id="4099" tvg-name="Jednotka HD" channel-id="4099" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIAK/847-jednotka-hd.png" group-title="Národné" catchup="vod" catchup-source="default",Jednotka HD
-http://stream2.torba.fun/P8i73IqNFB/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:0 tvg-id="4099" tvg-name="Jednotka HD" channel-id="4099" tvg-logo="https://picons.cmshulk.com/picons/jednotkahd.png" group-title="Národné" catchup="vod" catchup-source="default",Jednotka HD
+http://88.212.15.17:80/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:0 tvg-id="584c86a108172efc9c27af06eb3d4652" tvg-name="Dvojka HD" channel-id="2" tvg-logo="https://picons.cmshulk.com/picons/dvojka.png" group-title="" catchup="vod" catchup-source="default",Dvojka HD
 http://stream2.torba.fun/zKsgiie3Ok/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="336e46bf4276e77a716e494c6285d5db" tvg-name="Markiza HD" channel-id="3" tvg-logo="https://picons.cmshulk.com/picons/markizahd.png" group-title="" catchup="vod" catchup-source="default",Markiza HD
