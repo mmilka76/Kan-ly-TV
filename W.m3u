@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://370network.github.io/skylink-xmltv"
 #EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",DISNEY +
 http://stream2.torba.fun/yOoRLOA9Ia/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",PREMIERE HD
