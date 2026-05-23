@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://bcumedia.pro/epg.xml"
+
 #EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",DISNEY +
 http://stream2.torba.fun/yOoRLOA9Ia/mpegts?token=A1NjjunXksljkjbK
 #EXTINF:0 tvg-id="" tvg-name="" channel-id="" tvg-logo="" group-title=""  catchup="vod" catchup-source="default",PREMIERE HD
